@@ -128,51 +128,6 @@ My main interests are **MPGD/GEM detectors**, **Monte Carlo simulation toolchain
 ![Zenodo](https://img.shields.io/badge/Zenodo-1682D4?logo=zenodo&logoColor=white)
 ![CERN%20Analysis%20Preservation](https://img.shields.io/badge/CERN%20Analysis%20Preservation-000000?logo=cern&logoColor=white)
 
----
-
-## 🚀 Portfolio Roadmap (33 projects)
-
-I’m building a cohesive portfolio for **CERN Summer Student 2026**, spanning detector R&D, open data, scientific ML, and scientific visualization.
-
-**HEP / Detectors / Simulation**
-- Thermal Neutron GEM Optimization
-- GEM Detector Simulation
-- TPC GEM Track Simulator
-- Geant4 Garfield++ MPGD Bridge
-
-**CERN Open Data & Reproducibility**
-- CERN Open Data Dimuon Analysis
-- ATLAS Heavy-Ion Open Data Centrality
-- CMS Heavy-Ion Open Data (CMSSW VM)
-- ALICE Open Data Centrality (PT)
-- ATLAS Resonance Fits
-- REANA CERN Open Data Repro Pipeline
-
-**ML for Physics**
-- Machine Learning for Particle ID (π/K/p)
-- GCN Particle Collisions
-- Spectral Unfolding
-- SciML PDE Benchmark
-- Tsallis Nonextensive Fit
-
-**Astro / Math / Visualization**
-- GAIA Open Cluster Analysis
-- Three Body Chaos Simulator
-- Curved Spacetime Grid Simulator / Wormhole Visualizer
-- Single Qubit Visual
-- Hofstadter Quantum Geometry
-- Quantum Orbitals Project (atomic + molecular orbitals)
-
-**Environment / Materials / Digital Twins**
-- Aerosol Lab
-- Materials Design Kit
-- LHC BLM Digital Twin
-- Pelletron Digital Twin
-
-…and more (each repo will ship with a clear README, validation plots, and reproducible runs).
-
----
-
 ## 🏆 Strengths I bring to research & engineering
 
 - Scientific research methods • uncertainty propagation • statistical modeling  
