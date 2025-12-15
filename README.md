@@ -3,16 +3,15 @@
 </p>
 
 <p align="center">
-  <b>Physics (IFUSP) • HEP/Nuclear Instrumentation • MPGD/GEM Detectors • Simulation + Data + ML</b><br/>
-  Reproducible research software for detectors and collider open data.
+  <b>Physics (IFUSP) • Nuclear/HEP Instrumentation • MPGD/GEM • Simulation → Analysis → ML</b><br/>
+  I build reproducible research software for detector R&amp;D and physics data analysis.
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yamteodoro"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
   <a href="mailto:yam.artur@usp.br"><img alt="Email" src="https://img.shields.io/badge/Email-yam.artur@usp.br-D14836?logo=gmail&logoColor=white"></a>
-  <a href="https://www.researchgate.net/profile/Yam-Artur-Omoto-Teodoro"><img alt="ResearchGate" src="https://img.shields.io/badge/ResearchGate-00CCBB?logo=researchgate&logoColor=white"></a>
   <a href="https://lattes.cnpq.br/6430075450605326"><img alt="Lattes" src="https://img.shields.io/badge/Lattes-CNPq-1F4B99?logo=readme&logoColor=white"></a>
-  <a href="https://www.instagram.com/yam.artur?igsh=Y2puenZ4bzBla2p5"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"></a>
+  <a href="https://www.researchgate.net/profile/Yam-Artur-Omoto-Teodoro"><img alt="ResearchGate" src="https://img.shields.io/badge/ResearchGate-00CCBB?logo=researchgate&logoColor=white"></a>
 </p>
 
 <p align="center">
@@ -20,33 +19,73 @@
   <a href="https://portal.if.usp.br/fnc/pt-br/p%C3%A1gina/in%C3%ADcio">DFN</a> •
   <a href="http://hepic.if.usp.br">HEPIC</a> •
   <a href="https://portal.if.usp.br/cernbr/pt-br/node/323">INCT CERN Brasil</a> •
-  <a href="http://www1.fisica.org.br/ippog/?q=home">IPPOG-Brasil</a> •
   <a href="https://alice-collaboration.web.cern.ch/new_welcome">ALICE</a>
 </p>
 
 ---
 
-## 👋 About Me
+## 👋 Hi! I'm Yam
+I’m an MSc student in **Nuclear Physics / High-Energy Instrumentation** at **USP (IFUSP)**. I’m passionate about **science** (physics, chemistry, biology), **pure/applied math**, **technology & engineering**, and the joy of turning theory into working experiments—often through code.
 
-I’m a Physics student at the **Institute of Physics (University of São Paulo — IFUSP)** focused on **high-energy/nuclear instrumentation** and **data-driven physics**.  
-My main interests are **MPGD/GEM detectors**, **Monte Carlo simulation toolchains (Geant4/Garfield++/ROOT)**, and **reproducible scientific computing** (Docker/CI).
+My path into physics started early through inspiring teachers, university minicourses, and outreach experiences that made me fall in love with “how we test nature”. Today I’m especially drawn to **instrumentation**: understanding what’s happening *behind the scenes* in advanced machines and how they transform reality into data.
 
-- 🔭 **I’m currently working on:** GEM-based thermal-neutron detector optimization (simulation → analysis → ML), CERN Open Data mini-analyses, and reproducible pipelines.
-- 🌱 **I’m currently learning:** heavy-ion observables & systematics, statistical inference (fits/unfolding), and scientific ML (graph nets / SciML for PDEs).
-- 👯 **I’m looking to collaborate on:** detector simulation & reconstruction, CERN Open Data analyses, and physics-first visualization/education projects.
+**What I care about:** **curiosity**, **impact**, and **rigor** — with a practical mindset (≈ **6/10** between research-first and ship-first).
 
 ---
 
-## 🧠 Research Interests
+## ⭐ Start here (featured)
+If you’re new to my profile, these are the themes I’m most proud of:
 
-- MPGD / GEM detector R&D (spatial resolution, efficiency trade-offs, signal formation)  
-- Particle transport & interactions with matter (Monte Carlo methods)  
-- Statistical data analysis, uncertainty propagation, and model validation  
-- Physics-informed ML (regression, graph networks, differentiable simulation)
+- **Detector R&D (MPGD/GEM) pipelines** — simulation → analysis → reconstruction  
+  → Browse: https://github.com/YamArtur?tab=repositories&q=GEM&type=&language=&sort=
+- **HEP / CERN-style analysis projects** (Open Data, ROOT workflows, reproducibility)  
+  → Browse: https://github.com/YamArtur?tab=repositories&q=ALICE&type=&language=&sort=
+- **Digital twins & instrumentation “systems thinking”** (physics + engineering + software)  
+  → Browse: https://github.com/YamArtur?tab=repositories&q=digital+twin&type=&language=&sort=
+- **ML for reconstruction / tracking / clustering** (physics-driven evaluation)  
+  → Browse: https://github.com/YamArtur?tab=repositories&q=clustering&type=&language=&sort=
+- **End-to-end “build something real” projects** (ML + hardware + electronics)  
+  → Browse: https://github.com/YamArtur?tab=repositories&q=BetaZero&type=&language=&sort=
+
+> Tip: my repos usually include **reproducible runs**, **clear READMEs**, and **structured outputs** (figures/tables/notebooks/scripts) whenever possible.
 
 ---
 
-## 🧰 Tech Stack (what I actually use)
+## 🔬 What I do (in a sentence)
+I develop end-to-end workflows for **detector simulation and performance studies**, combining:
+**Geant4 → (Garfield++ / SRIM via Felix++) → ROOT analysis → ML**.
+
+---
+
+## ✅ How I work
+- **Reproducibility by default:** clean environments (Docker when it helps), pinned dependencies, and repeatable scripts.
+- **Clarity over cleverness:** readable code, documented assumptions, and outputs you can verify.
+- **Physics correctness first:** models and metrics grounded in detector/analysis realities.
+
+---
+
+## 🧭 Research pillars
+- **Detector instrumentation (MPGD/GEM, TPC):** performance optimization, resolution × efficiency trade-offs, signal formation & charge transport.
+- **End-to-end simulation toolchains:** Monte Carlo + hybrid workflows (Geant4/Garfield++/SRIM + field maps), fast/parametric simulation, validation.
+- **Reconstruction & statistical inference:** calibration, fits/likelihood thinking, uncertainty propagation, robust comparisons.
+- **Scientific ML for physics:** regression-based reconstruction, clustering/tracking ideas, surrogate models (physics-driven evaluation).
+
+<details>
+<summary><b>🧠 Extra interests (curiosity sandbox)</b></summary>
+
+I also enjoy exploring: accelerator instrumentation concepts, HEP/QCD phenomenology, materials informatics for detector components, and physics visualization/education projects that make hard ideas feel intuitive.
+
+</details>
+
+---
+
+## 🧩 Beyond the lab
+Outside physics, I’m into **narrative-driven games**, **tabletop RPGs**, **3D printing**, **museums & art**, and a lifelong habit of **organizing notes/books** with obsessive care.
+
+---
+
+<details>
+<summary><b>🧰 Tech stack (what I actually use)</b></summary>
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -56,106 +95,58 @@ My main interests are **MPGD/GEM detectors**, **Monte Carlo simulation toolchain
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
 
+### HEP / Detector Simulation & Analysis
+![ROOT](https://img.shields.io/badge/CERN%20ROOT-000000?logo=cern&logoColor=white)
+![Geant4](https://img.shields.io/badge/Geant4-2E7D32?logo=geant4&logoColor=white)
+![Garfield++](https://img.shields.io/badge/Garfield%2B%2B-2E7D32?logo=readme&logoColor=white)
+
 ### Scientific Computing (Python)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C78A8?logo=python&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white)
 ![statsmodels](https://img.shields.io/badge/statsmodels-2C5AA0?logo=python&logoColor=white)
-![Numba](https://img.shields.io/badge/Numba-00A3E0?logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
-![Requests](https://img.shields.io/badge/Requests-000000?logo=python&logoColor=white)
 
-### Machine Learning / Deep Learning
+### ML / DL
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white)
-![ONNX](https://img.shields.io/badge/ONNX-005CED?logo=onnx&logoColor=white)
-
-### HEP / Detector Simulation & Analysis
-![ROOT](https://img.shields.io/badge/CERN%20ROOT-000000?logo=cern&logoColor=white)
-![RDataFrame](https://img.shields.io/badge/ROOT%20RDataFrame-000000?logo=cern&logoColor=white)
-![RooFit](https://img.shields.io/badge/ROOT%20RooFit-000000?logo=cern&logoColor=white)
-![Geant4](https://img.shields.io/badge/Geant4-2E7D32?logo=geant4&logoColor=white)
-![Garfield++](https://img.shields.io/badge/Garfield%2B%2B-2E7D32?logo=readme&logoColor=white)
-![Delphes](https://img.shields.io/badge/Delphes-111111?logo=readme&logoColor=white)
-
-### Modern HEP Python Analysis
-![uproot](https://img.shields.io/badge/uproot-000000?logo=python&logoColor=white)
-![awkward](https://img.shields.io/badge/Awkward%20Array-000000?logo=python&logoColor=white)
-![vector](https://img.shields.io/badge/vector-000000?logo=python&logoColor=white)
-![mplhep](https://img.shields.io/badge/mplhep-000000?logo=python&logoColor=white)
-![coffea](https://img.shields.io/badge/coffea-000000?logo=python&logoColor=white)
 
 ### Dev & Reproducibility
 ![Linux](https://img.shields.io/badge/Linux-000000?logo=linux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Conda](https://img.shields.io/badge/Conda-44A833?logo=anaconda&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000000?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
-![Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=black)
 
-### Scientific Writing & Presentation
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white)
-![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?logo=microsoftpowerpoint&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white)
-![Word](https://img.shields.io/badge/Word-2B579A?logo=microsoftword&logoColor=white)
-![Power%20BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
-
-### Engineering / Electronics / CAD
-![Arduino](https://img.shields.io/badge/Arduino%20IDE-00979D?logo=arduino&logoColor=white)
-![KiCad](https://img.shields.io/badge/KiCad-314CB0?logo=kicad&logoColor=white)
-![LTspice](https://img.shields.io/badge/LTspice-900000?logo=readme&logoColor=white)
-![FreeCAD](https://img.shields.io/badge/FreeCAD-005C8A?logo=freecad&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white)
-
-### Multiphysics & Geometry (Detector R&D)
-![Elmer](https://img.shields.io/badge/Elmer%20FEM-2C5AA0?logo=readme&logoColor=white)
-![Gmsh](https://img.shields.io/badge/Gmsh-2C5AA0?logo=readme&logoColor=white)
-
-### HEP Computing / Distributed
-![HTCondor](https://img.shields.io/badge/HTCondor-000000?logo=readme&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
-![SWAN](https://img.shields.io/badge/CERN%20SWAN-000000?logo=jupyter&logoColor=white)
-
-### Open Science / Preservation
-![Zenodo](https://img.shields.io/badge/Zenodo-1682D4?logo=zenodo&logoColor=white)
-![CERN%20Analysis%20Preservation](https://img.shields.io/badge/CERN%20Analysis%20Preservation-000000?logo=cern&logoColor=white)
-
-## 🏆 Strengths I bring to research & engineering
-
-- Scientific research methods • uncertainty propagation • statistical modeling  
-- Critical thinking & problem solving • resilience & persistence • learning agility  
-- Teaching/tutoring across levels • science communication & outreach  
-- Clear technical writing and presentations (LaTeX + slides)
+</details>
 
 ---
 
-## 📈 GitHub Stats
+<details>
+<summary><b>📈 GitHub stats</b></summary>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YamArtur&show_icons=true&hide_title=true" height="155"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YamArtur&layout=compact" height="155"/>
 </p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=YamArtur" height="165"/>
 </p>
 
+</details>
+
 ---
 
-## 🤝 Collaboration & Contact
+## 🤝 Open to networking & opportunities
+If you’re working on **detector simulation**, **HEP software**, **reconstruction/ML**, or **instrumentation-focused analysis**, I’d love to connect.
 
-- 📫 **Email:** yam.artur@usp.br  
-- 💼 **LinkedIn:** https://www.linkedin.com/in/yamteodoro  
-- 🔬 **ResearchGate:** https://www.researchgate.net/profile/Yam-Artur-Omoto-Teodoro  
-- 🧾 **Lattes:** https://lattes.cnpq.br/6430075450605326  
+**Contact**
+- **Email:** yam.artur@usp.br  
+- **LinkedIn:** https://www.linkedin.com/in/yamteodoro  
+- **Lattes:** https://lattes.cnpq.br/6430075450605326  
+- **ResearchGate:** https://www.researchgate.net/profile/Yam-Artur-Omoto-Teodoro  
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1E3D,100:5B86E5&height=35&section=footer" />
