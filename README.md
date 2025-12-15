@@ -62,7 +62,7 @@ I develop end-to-end workflows for **detector simulation and performance studies
 **Geant4 → (Garfield++ / SRIM via Felix++) → ROOT analysis → ML**.
 
 <p align="center">
-  <img src="Simulation%20heavy%20non-Standard-Model%20Higgs%20boson%20produced%20at%2013%20TeV.gif" width="520" alt="HEP simulation visualization (13 TeV)"/>
+  <img src="Simulation-heavy-non-Standard-Model-Higgs-13-TeV.gif" width="520" alt="HEP simulation visualization (13 TeV)"/>
 </p>
 
 ---
