@@ -142,48 +142,60 @@ Beyond my main pillars, I’m deeply interested in a wider set of topics that of
   <a href="https://isocpp.org/" title="C++">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="44" alt="C++"/>
   </a>&nbsp;&nbsp;
+
   <a href="https://www.python.org/" title="Python">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="44" alt="Python"/>
   </a>&nbsp;&nbsp;
+
   <a href="https://git-scm.com/" title="Git">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="44" alt="Git"/>
   </a>&nbsp;&nbsp;
+
   <a href="https://www.kernel.org/" title="Linux">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="44" alt="Linux"/>
   </a>&nbsp;&nbsp;
+
   <a href="https://www.docker.com/" title="Docker">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="44" alt="Docker"/>
   </a>&nbsp;&nbsp;
+
   <a href="https://cmake.org/" title="CMake">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="44" alt="CMake"/>
   </a>&nbsp;&nbsp;
 
-  <!-- The 4 missing ones (now as real icons, clickable to official pages) -->
+  <!-- Local icons (same folder as README.md) -->
   <a href="https://geant4.web.cern.ch/" title="Geant4">
-    <img src="https://geant4.web.cern.ch/themes/custom/geant4/logo.png" height="44" alt="Geant4"/>
+    <img src="Geant4Logo.png" height="44" style="width:auto; max-width:110px;" alt="Geant4"/>
   </a>&nbsp;&nbsp;
+
   <a href="https://root.cern/" title="CERN ROOT">
-    <img src="ROOT_icon.png" height="44" alt="ROOT"/>
+    <img src="ROOT_icon.png" height="44" style="width:auto; max-width:120px;" alt="ROOT"/>
   </a>&nbsp;&nbsp;
-  <a href="https://garfieldpp.web.cern.ch/garfieldpp/" title="Garfield++ (CERN)">
-    <img src="Garfieldpp.png" height="44" alt="Garfield++"/>
+
+  <a href="https://garfieldpp.web.cern.ch/garfieldpp/" title="Garfield++">
+    <img src="Garfieldpp.jpg" height="44" style="width:auto; max-width:70px;" alt="Garfield++"/>
   </a>&nbsp;&nbsp;
+
   <a href="https://www.srim.org/" title="SRIM">
-    <img src="SRIM.png" height="44" alt="SRIM"/>
+    <img src="SRIM.png" height="44" style="width:auto; max-width:60px;" alt="SRIM"/>
   </a>&nbsp;&nbsp;
 
   <a href="https://jupyter.org/" title="Jupyter">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="44" alt="Jupyter"/>
   </a>&nbsp;&nbsp;
+
   <a href="https://numpy.org/" title="NumPy">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="44" alt="NumPy"/>
   </a>&nbsp;&nbsp;
+
   <a href="https://pandas.pydata.org/" title="pandas">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="44" alt="pandas"/>
   </a>&nbsp;&nbsp;
+
   <a href="https://scikit-learn.org/" title="scikit-learn">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="44" alt="scikit-learn"/>
   </a>&nbsp;&nbsp;
+
   <a href="https://pytorch.org/" title="PyTorch">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="44" alt="PyTorch"/>
   </a>
@@ -196,98 +208,101 @@ Beyond my main pillars, I’m deeply interested in a wider set of topics that of
 <details>
 <summary><b>🔎 More tools I use</b></summary>
 
-### Detector R&D / multiphysics / prototyping
+<br/>
+
+### Detector R&amp;D / multiphysics / prototyping
 <p align="left">
   <a href="https://www.arduino.cc/" title="Arduino">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="Arduino"/>
-  </a>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
+  </a>
   <a href="https://www.kicad.org/" title="KiCad">
-    <img src="https://cdn.simpleicons.org/kicad" height="40" alt="KiCad"/>
-  </a>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white" alt="KiCad"/>
+  </a>
   <a href="https://www.blender.org/" title="Blender">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="Blender"/>
-  </a>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"/>
+  </a>
   <a href="https://www.elmerfem.org/" title="Elmer FEM">
-    <img src="https://img.shields.io/badge/Elmer-0B1E3D?style=flat-square&logo=gnu&logoColor=white" height="28" alt="Elmer FEM"/>
-  </a>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Elmer%20FEM-0B1E3D?style=for-the-badge" alt="Elmer FEM"/>
+  </a>
   <a href="https://gmsh.info/" title="Gmsh">
-    <img src="https://img.shields.io/badge/Gmsh-0B1E3D?style=flat-square&logo=gnometerminal&logoColor=white" height="28" alt="Gmsh"/>
-  </a>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Gmsh-0B1E3D?style=for-the-badge" alt="Gmsh"/>
+  </a>
   <a href="https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html" title="LTspice">
-    <img src="https://img.shields.io/badge/LTspice-0B1E3D?style=flat-square&logo=analogdevices&logoColor=white" height="28" alt="LTspice"/>
-  </a>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/LTspice-0B1E3D?style=for-the-badge" alt="LTspice"/>
+  </a>
   <a href="https://www.freecad.org/" title="FreeCAD">
-    <img src="https://img.shields.io/badge/FreeCAD-0B1E3D?style=flat-square&logo=opensourcehardware&logoColor=white" height="28" alt="FreeCAD"/>
+    <img src="https://img.shields.io/badge/FreeCAD-0B1E3D?style=for-the-badge" alt="FreeCAD"/>
   </a>
 </p>
 
 ### HEP analysis ecosystem / inference
 <p align="left">
   <a href="https://root.cern/manual/roofit/" title="RooFit (ROOT)">
-    <img src="https://root.cern/img/ROOT-logo.svg" height="40" alt="RooFit (ROOT)"/>
-  </a>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/RooFit-0B1E3D?style=for-the-badge" alt="RooFit"/>
+  </a>
   <a href="https://root.cern/doc/master/classROOT_1_1RDataFrame.html" title="RDataFrame (ROOT)">
-    <img src="https://root.cern/img/ROOT-logo.svg" height="40" alt="RDataFrame (ROOT)"/>
-  </a>&nbsp;&nbsp;
-  <a href="http://delphes.cern.ch/" title="Delphes">
-    <img src="https://img.shields.io/badge/Delphes-0B1E3D?style=flat-square&logo=cern&logoColor=white" height="28" alt="Delphes"/>
-  </a>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/RDataFrame-0B1E3D?style=for-the-badge" alt="RDataFrame"/>
+  </a>
+  <a href="https://cp3.irmp.ucl.ac.be/projects/delphes" title="Delphes">
+    <img src="https://img.shields.io/badge/Delphes-0B1E3D?style=for-the-badge" alt="Delphes"/>
+  </a>
   <a href="https://uproot.readthedocs.io/" title="uproot">
-    <img src="https://img.shields.io/badge/uproot-0B1E3D?style=flat-square&logo=python&logoColor=white" height="28" alt="uproot"/>
-  </a>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/uproot-0B1E3D?style=for-the-badge" alt="uproot"/>
+  </a>
   <a href="https://awkward-array.org/" title="Awkward Array">
-    <img src="https://img.shields.io/badge/Awkward-0B1E3D?style=flat-square&logo=python&logoColor=white" height="28" alt="Awkward Array"/>
-  </a>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Awkward%20Array-0B1E3D?style=for-the-badge" alt="Awkward Array"/>
+  </a>
   <a href="https://coffeateam.github.io/coffea/" title="coffea">
-    <img src="https://img.shields.io/badge/coffea-0B1E3D?style=flat-square&logo=python&logoColor=white" height="28" alt="coffea"/>
-  </a>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/coffea-0B1E3D?style=for-the-badge" alt="coffea"/>
+  </a>
   <a href="https://mplhep.readthedocs.io/" title="mplhep">
-    <img src="https://img.shields.io/badge/mplhep-0B1E3D?style=flat-square&logo=python&logoColor=white" height="28" alt="mplhep"/>
+    <img src="https://img.shields.io/badge/mplhep-0B1E3D?style=for-the-badge" alt="mplhep"/>
   </a>
 </p>
 
 ### Engineering software / dev workflow
 <p align="left">
-  <a href="https://code.visualstudio.com/" title="VS Code">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://docs.conda.io/" title="Conda">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="Conda"/>
-  </a>&nbsp;&nbsp;
+  <a href="https://code.visualstudio.com/" title="Visual Studio Code">
+    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+  </a>
+  <a href="https://conda.io/" title="Conda">
+    <img src="https://img.shields.io/badge/Conda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Conda"/>
+  </a>
   <a href="https://colab.research.google.com/" title="Google Colab">
-    <img src="https://cdn.simpleicons.org/googlecolab" height="40" alt="Google Colab"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://htcondor.org/" title="HTCondor">
-    <img src="https://img.shields.io/badge/HTCondor-0B1E3D?style=flat-square&logo=linux&logoColor=white" height="28" alt="HTCondor"/>
-  </a>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" alt="Google Colab"/>
+  </a>
+  <a href="https://htcondor.readthedocs.io/" title="HTCondor">
+    <img src="https://img.shields.io/badge/HTCondor-0B1E3D?style=for-the-badge" alt="HTCondor"/>
+  </a>
   <a href="https://kubernetes.io/" title="Kubernetes">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://swan.web.cern.ch/" title="SWAN (CERN)">
-    <img src="https://img.shields.io/badge/SWAN-0B1E3D?style=flat-square&logo=cern&logoColor=white" height="28" alt="SWAN"/>
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+  </a>
+  <a href="https://swan.web.cern.ch/" title="CERN SWAN">
+    <img src="https://img.shields.io/badge/SWAN%20(CERN)-0B1E3D?style=for-the-badge" alt="SWAN"/>
   </a>
 </p>
 
 ### Web / data products (when I build platforms)
 <p align="left">
-  <a href="https://www.typescriptlang.org/" title="TypeScript">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://react.dev/" title="React">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
-  </a>&nbsp;&nbsp;
   <a href="https://nextjs.org/" title="Next.js">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js"/>
-  </a>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  </a>
   <a href="https://fastapi.tiangolo.com/" title="FastAPI">
-    <img src="https://cdn.simpleicons.org/fastapi" height="40" alt="FastAPI"/>
-  </a>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  </a>
+  <a href="https://react.dev/" title="React">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  </a>
   <a href="https://www.postgresql.org/" title="PostgreSQL">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  </a>
+  <a href="https://www.docker.com/" title="Docker">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   </a>
 </p>
 
 </details>
+
 
 
 ---
