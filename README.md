@@ -28,16 +28,35 @@
 
 ---
 
-## 👋 Hi! I'm Yam
-I’m an MSc student in **Nuclear Physics / High-Energy Instrumentation** at **USP (IFUSP)**. I’m passionate about **science** (physics, chemistry, biology), **pure/applied math**, **technology & engineering**, and the joy of turning theory into working experiments—often through code.
+## 👋 About Me
 
-My path into physics started early through inspiring teachers, university minicourses, and outreach experiences that made me fall in love with “how we test nature”. Today I’m especially drawn to **instrumentation**: understanding what’s happening *behind the scenes* in advanced machines and how they transform reality into data.
+Hello everyone — welcome to my GitHub profile! I’m Yam Artur Omoto Teodoro, an MSc student in **High-Energy Physics and Nuclear Instrumentation** at **USP (IFUSP)**, supervised by **Prof. Marco Bregant (PhD)**, working where **physics meets advanced machines and real data**. 😎
 
-**What I care about:** **curiosity**, **impact**, and **rigor** — with a practical mindset (≈ **6/10** between research-first and ship-first).
+What keeps me moving toward becoming a physicist and researcher is the opportunity to collaborate with brilliant people at the frontier of knowledge — not only to help solve real-world problems, but also to help humanity understand the deeper truth of the cosmos. I’m driven by **curiosity and a refusal to be complacent**: I don’t like simply accepting things as they are. I want to understand **what is happening, why it happens, and what it means for our place in reality**, in a logical, mathematical, and deeply personal way. That ongoing search is also how I deal with my own existential questions — and it’s why I study with near-obsessive intensity.
+
+I’m especially drawn to **instrumentation** for particle accelerators and particle detectors because it’s how we “test nature” under some of the most extreme conditions we can create on Earth. All the science and engineering behind such complex machines fascinates me immensely. Few scientific machines can reach regimes like these — and I love understanding what happens behind the scenes: how the hardware, electronics, and software turn fundamental interactions into reliable measurements.
+
+My guiding values are **curiosity, impact, and rigor**.
+
+<details>
+<summary><b>Personal details about me</b></summary>
+<br>
+
+I’m also a programming enthusiast who loves ambitious, hands-on projects — especially when they sit at the intersection of disciplines. I value depth, but I’m wary of extreme specialization: the deeper the tunnel, the narrower the horizon. So while my core work focuses on detectors and accelerator-adjacent instrumentation, I constantly explore ideas across physics and beyond — particularly mathematics, which I love wholeheartedly. For me, building software is a way of doing science: turning equations into experiments, turning data into insight, and turning complex systems into something we can test, validate, and improve.
+
+My path into science started early through inspiring teachers, university minicourses, and outreach experiences that made me fall in love with “how we test nature”. Since then, I’ve kept the same habit: learning intensely, taking meticulous notes, and organizing everything as clearly as possible — because good ideas deserve good structure.
+
+Outside the lab, I’m unapologetically “nerdy” in the best way. I’m into tabletop RPGs (and collecting/designing miniatures), 3D printing (FDM/resin), chess, old films, and scientific documentaries. I love art criticism, visiting museums and exhibitions, reading widely (from novels and philosophy to science writing by people like Carl Sagan, Stephen Hawking, Brian Greene, Brian Cox, Isaac Asimov, Roger Penrose, Kip Thorne, Frank Close, Carlo Rovelli, George Gamow, Sean Carroll, Douglas Hofstadter, Marcelo Gleiser, Steven Weinberg, Thomas Kuhn, Heinz Pagels, Leonard Susskind, Janna Levin, Dan Hooper, and Johnjoe McFadden), and I also enjoy writing/reciting poetry.
+
+I’m fascinated by astrophotography and aerospace engineering — I plan to get a telescope to start taking my own sky photos, and (with a friend) to build my first rocket. I’m a fan of Star Wars, Lord of the Rings, Marvel/DC (Batman is my favorite), Pokémon, and Harry Potter. I like drawing a lot, and I often combine it with D&D + 3D printing to create and paint my own miniatures.
+
+I also genuinely enjoy digital/analog electronics as a hobby: replicating clever projects I find online or building practical solutions for everyday problems. BetaZero — a chess-playing robotic arm driven by an AlphaZero-style agent — is one example of that spirit.
+
+</details>
 
 ---
 
-## ⭐ Start here (featured)
+## ⭐ Featured Projects
 If you’re new to my profile, these are the themes I’m most proud of:
 
 - **Detector R&D (MPGD/GEM) pipelines** — simulation → analysis → reconstruction  
@@ -57,9 +76,15 @@ If you’re new to my profile, these are the themes I’m most proud of:
 
 ---
 
-## 🔬 What I do (in a sentence)
-I develop end-to-end workflows for **detector simulation and performance studies**, combining:
-**Geant4 → (Garfield++ / SRIM via Felix++) → ROOT analysis → ML**.
+## 🔬 What I do
+
+I work on **detector R&D and physics-data pipelines** — from concept and simulation to analysis, and (when relevant) prototyping.
+
+**So far**, my work has focused on end-to-end workflows for detector performance studies (simulation → signal formation → reconstruction), typically combining tools like **Geant4**, **Garfield++/SRIM** (via Felix++), **ROOT**, and **ML** for quantitative optimization and reproducible analysis.
+
+**Now, as I start my MSc with Prof. Marco Bregant at IFUSP/HEPIC**, my scope is expanding toward **next-generation detector concepts for future collider environments**, with a particular eye on **FCC studies / FCC-related detector R&D** and the challenges posed by **relativistic heavy-ion collisions at higher energies** than today’s standard regimes. The goal is to help develop and validate **new detection techniques and technologies** that can scale to future experimental demands, including building a **functional prototype** as part of the R&D path toward a more mature detector proposal. A **solid-state detector direction is a likely path**, though the exact technology choices will be defined as the project matures.
+
+In parallel, I continue contributing to **thermal-neutron detector instrumentation simulation** projects with Prof. Marcelo Munhoz, keeping a strong foundation in MPGDs while moving into a broader, more ambitious instrumentation agenda.
 
 <p align="center">
   <img src="Simulation-heavy-non-Standard-Model-Higgs-13-TeV.gif" width="520" alt="HEP simulation visualization (13 TeV)"/>
@@ -67,78 +92,203 @@ I develop end-to-end workflows for **detector simulation and performance studies
 
 ---
 
-## ✅ How I work
-- **Reproducibility by default:** clean environments (Docker when it helps), pinned dependencies, and repeatable scripts.
-- **Clarity over cleverness:** readable code, documented assumptions, and outputs you can verify.
-- **Physics correctness first:** models and metrics grounded in detector/analysis realities.
-
----
-
 ## 🧭 Research pillars
-- **Detector instrumentation (MPGD/GEM, TPC):** performance optimization, resolution × efficiency trade-offs, signal formation & charge transport.
-- **End-to-end simulation toolchains:** Monte Carlo + hybrid workflows (Geant4/Garfield++/SRIM + field maps), fast/parametric simulation, validation.
-- **Reconstruction & statistical inference:** calibration, fits/likelihood thinking, uncertainty propagation, robust comparisons.
-- **Scientific ML for physics:** regression-based reconstruction, clustering/tracking ideas, surrogate models (physics-driven evaluation).
+
+- **Detector instrumentation (MPGD/GEM, TPC, solid-state candidates):** performance optimization, resolution × efficiency trade-offs, signal formation, charge transport, and prototype-oriented thinking.
+- **End-to-end simulation toolchains:** Monte Carlo + hybrid workflows (Geant4/Garfield++/SRIM + field maps), fast/parametric simulation, validation, and uncertainty-aware modeling.
+- **Reconstruction & statistical inference:** calibration strategies, fits/likelihood thinking, uncertainty propagation, robust comparisons, and systematic studies.
+- **Scientific ML for physics:** regression-based reconstruction, clustering/tracking ideas, surrogate models, and physics-driven evaluation.
 
 <details>
-<summary><b>🧠 Extra interests (curiosity sandbox)</b></summary>
+<summary><b>🧠 Broader interests (curiosity sandbox)</b></summary>
+<br>
 
-I also enjoy exploring: accelerator instrumentation concepts, HEP/QCD phenomenology, materials informatics for detector components, and physics visualization/education projects that make hard ideas feel intuitive.
+Beyond my main pillars, I’m deeply interested in a wider set of topics that often connect back to instrumentation, computation, and fundamental physics:
+
+- **Nuclear instrumentation (low & high energy):** experimental methods, detector systems, and measurement strategies across energy scales.
+- **Particle & radiation detectors:** GEM/MPGDs, TPCs, **semiconductor detectors**, and **scintillators**; readout concepts and performance limits.
+- **Computational physics & simulation:** Monte Carlo methods and complementary numerical approaches for modeling complex systems.
+- **Accelerator physics & applications:** beam instrumentation/diagnostics, accelerator-based science, industrial/multidisciplinary applications, and **synchrotron radiation**.
+- **HEP theory foundations:** Quantum Field Theory, **QCD**, **QGP**, and particle physics concepts that motivate detector requirements and analyses.
+- **Relativistic heavy-ion collisions:** collision dynamics, event characterization, and detector challenges in high-multiplicity environments.
 
 <p align="center">
   <img src="PacksofParticlesCollidingFormingQGP.gif" width="520" alt="Heavy-ion collision / QGP-inspired visualization"/>
 </p>
 
+- **Engineering-driven R&D (“physical engineering” mindset):** designing, building, and iterating on experimental systems with strong physics grounding.
+- **Analog/digital electronics & advanced technology:** low-noise front-ends, DAQ thinking, ASIC/FPGA-adjacent concepts, and chip fabrication awareness.
+- **Materials physics & materials development:** condensed matter foundations, characterization, novel materials, **nanomaterials**, **quantum/topological materials**, and materials informatics for detector/accelerator components.
+- **Data analysis & data science:** scientific computing, statistics, reproducibility, visualization, and scalable analysis workflows.
+- **Fusion & tokamaks:** plasma physics and the instrumentation/data challenges in fusion research.
+- **Academic 3D-printing for research:** rapid prototyping, custom fixtures, and instrumentation support via additive manufacturing.
+- **Pure & applied mathematics:** the language and toolbox behind modeling, inference, and theory-building.
+
 <p align="center">
   <img src="Mandelbrot_sequence_fractal.gif" width="520" alt="Mandelbrot set (complex dynamics)"/>
 </p>
 
+- **Terahertz physics:** sources, detection, instrumentation, and applications.
+- **High-energy astrophysics & astroparticles:** stellar/galactic/extragalactic astrophysics, neutrinos, and cosmic rays, with an emphasis on detection techniques.
+
 </details>
 
 ---
 
-## 🧩 Beyond the lab
-Outside physics, I’m into **narrative-driven games**, **tabletop RPGs**, **3D printing**, **museums & art**, and a lifelong habit of **organizing notes/books** with obsessive care.
+## 🧰 Toolkit
 
----
+<p align="center">
+  <!-- Core (most relevant for HEP/CERN-style R&D) -->
+  <a href="https://isocpp.org/" title="C++">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="44" alt="C++"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.python.org/" title="Python">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="44" alt="Python"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://git-scm.com/" title="Git">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="44" alt="Git"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.kernel.org/" title="Linux">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="44" alt="Linux"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.docker.com/" title="Docker">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="44" alt="Docker"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://cmake.org/" title="CMake">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="44" alt="CMake"/>
+  </a>&nbsp;&nbsp;
+
+  <!-- The 4 missing ones (now as real icons, clickable to official pages) -->
+  <a href="https://geant4.web.cern.ch/" title="Geant4">
+    <img src="https://geant4.web.cern.ch/themes/custom/geant4/logo.png" height="44" alt="Geant4"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://root.cern/" title="CERN ROOT">
+    <img src="ROOT_icon.png" height="44" alt="ROOT"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://garfieldpp.web.cern.ch/garfieldpp/" title="Garfield++ (CERN)">
+    <img src="Garfieldpp.png" height="44" alt="Garfield++"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.srim.org/" title="SRIM">
+    <img src="SRIM.png" height="44" alt="SRIM"/>
+  </a>&nbsp;&nbsp;
+
+  <a href="https://jupyter.org/" title="Jupyter">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="44" alt="Jupyter"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://numpy.org/" title="NumPy">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="44" alt="NumPy"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://pandas.pydata.org/" title="pandas">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="44" alt="pandas"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://scikit-learn.org/" title="scikit-learn">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="44" alt="scikit-learn"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://pytorch.org/" title="PyTorch">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="44" alt="PyTorch"/>
+  </a>
+</p>
+
+<p align="center">
+  <sub><b>Core:</b> C++ • Python • Git/Linux • Geant4 • ROOT • Garfield++/SRIM • scientific Python • ML • reproducible workflows</sub>
+</p>
 
 <details>
-<summary><b>🧰 Tech stack (what I actually use)</b></summary>
+<summary><b>🔎 More tools I use</b></summary>
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
+### Detector R&D / multiphysics / prototyping
+<p align="left">
+  <a href="https://www.arduino.cc/" title="Arduino">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="Arduino"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.kicad.org/" title="KiCad">
+    <img src="https://cdn.simpleicons.org/kicad" height="40" alt="KiCad"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.blender.org/" title="Blender">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="Blender"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.elmerfem.org/" title="Elmer FEM">
+    <img src="https://img.shields.io/badge/Elmer-0B1E3D?style=flat-square&logo=gnu&logoColor=white" height="28" alt="Elmer FEM"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://gmsh.info/" title="Gmsh">
+    <img src="https://img.shields.io/badge/Gmsh-0B1E3D?style=flat-square&logo=gnometerminal&logoColor=white" height="28" alt="Gmsh"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html" title="LTspice">
+    <img src="https://img.shields.io/badge/LTspice-0B1E3D?style=flat-square&logo=analogdevices&logoColor=white" height="28" alt="LTspice"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.freecad.org/" title="FreeCAD">
+    <img src="https://img.shields.io/badge/FreeCAD-0B1E3D?style=flat-square&logo=opensourcehardware&logoColor=white" height="28" alt="FreeCAD"/>
+  </a>
+</p>
 
-### HEP / Detector Simulation & Analysis
-![ROOT](https://img.shields.io/badge/CERN%20ROOT-000000?logo=cern&logoColor=white)
-![Geant4](https://img.shields.io/badge/Geant4-2E7D32?logo=geant4&logoColor=white)
-![Garfield++](https://img.shields.io/badge/Garfield%2B%2B-2E7D32?logo=readme&logoColor=white)
+### HEP analysis ecosystem / inference
+<p align="left">
+  <a href="https://root.cern/manual/roofit/" title="RooFit (ROOT)">
+    <img src="https://root.cern/img/ROOT-logo.svg" height="40" alt="RooFit (ROOT)"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://root.cern/doc/master/classROOT_1_1RDataFrame.html" title="RDataFrame (ROOT)">
+    <img src="https://root.cern/img/ROOT-logo.svg" height="40" alt="RDataFrame (ROOT)"/>
+  </a>&nbsp;&nbsp;
+  <a href="http://delphes.cern.ch/" title="Delphes">
+    <img src="https://img.shields.io/badge/Delphes-0B1E3D?style=flat-square&logo=cern&logoColor=white" height="28" alt="Delphes"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://uproot.readthedocs.io/" title="uproot">
+    <img src="https://img.shields.io/badge/uproot-0B1E3D?style=flat-square&logo=python&logoColor=white" height="28" alt="uproot"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://awkward-array.org/" title="Awkward Array">
+    <img src="https://img.shields.io/badge/Awkward-0B1E3D?style=flat-square&logo=python&logoColor=white" height="28" alt="Awkward Array"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://coffeateam.github.io/coffea/" title="coffea">
+    <img src="https://img.shields.io/badge/coffea-0B1E3D?style=flat-square&logo=python&logoColor=white" height="28" alt="coffea"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://mplhep.readthedocs.io/" title="mplhep">
+    <img src="https://img.shields.io/badge/mplhep-0B1E3D?style=flat-square&logo=python&logoColor=white" height="28" alt="mplhep"/>
+  </a>
+</p>
 
-### Scientific Computing (Python)
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white)
-![statsmodels](https://img.shields.io/badge/statsmodels-2C5AA0?logo=python&logoColor=white)
+### Engineering software / dev workflow
+<p align="left">
+  <a href="https://code.visualstudio.com/" title="VS Code">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://docs.conda.io/" title="Conda">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="Conda"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://colab.research.google.com/" title="Google Colab">
+    <img src="https://cdn.simpleicons.org/googlecolab" height="40" alt="Google Colab"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://htcondor.org/" title="HTCondor">
+    <img src="https://img.shields.io/badge/HTCondor-0B1E3D?style=flat-square&logo=linux&logoColor=white" height="28" alt="HTCondor"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://kubernetes.io/" title="Kubernetes">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://swan.web.cern.ch/" title="SWAN (CERN)">
+    <img src="https://img.shields.io/badge/SWAN-0B1E3D?style=flat-square&logo=cern&logoColor=white" height="28" alt="SWAN"/>
+  </a>
+</p>
 
-### ML / DL
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-
-### Dev & Reproducibility
-![Linux](https://img.shields.io/badge/Linux-000000?logo=linux&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-000000?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
+### Web / data products (when I build platforms)
+<p align="left">
+  <a href="https://www.typescriptlang.org/" title="TypeScript">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://react.dev/" title="React">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://nextjs.org/" title="Next.js">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://fastapi.tiangolo.com/" title="FastAPI">
+    <img src="https://cdn.simpleicons.org/fastapi" height="40" alt="FastAPI"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.postgresql.org/" title="PostgreSQL">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL"/>
+  </a>
+</p>
 
 </details>
+
 
 ---
 
