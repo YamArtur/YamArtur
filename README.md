@@ -22,6 +22,10 @@
   <a href="https://alice-collaboration.web.cern.ch/new_welcome">ALICE</a>
 </p>
 
+<p align="center">
+  <img src="ParticleAcceleratorCollisionGIF.gif" width="720" alt="Accelerator / beamline visualization"/>
+</p>
+
 ---
 
 ## 👋 Hi! I'm Yam
@@ -47,13 +51,19 @@ If you’re new to my profile, these are the themes I’m most proud of:
 - **End-to-end “build something real” projects** (ML + hardware + electronics)  
   → Browse: https://github.com/YamArtur?tab=repositories&q=BetaZero&type=&language=&sort=
 
-> Tip: my repos usually include **reproducible runs**, **clear READMEs**, and **structured outputs** (figures/tables/notebooks/scripts) whenever possible.
+<p align="center">
+  <img src="DataGeneratedinParticlePhysicsDetectors.gif" width="520" alt="Particle detector event display / tracking visualization"/>
+</p>
 
 ---
 
 ## 🔬 What I do (in a sentence)
 I develop end-to-end workflows for **detector simulation and performance studies**, combining:
 **Geant4 → (Garfield++ / SRIM via Felix++) → ROOT analysis → ML**.
+
+<p align="center">
+  <img src="Simulation%20heavy%20non-Standard-Model%20Higgs%20boson%20produced%20at%2013%20TeV.gif" width="520" alt="HEP simulation visualization (13 TeV)"/>
+</p>
 
 ---
 
@@ -74,6 +84,14 @@ I develop end-to-end workflows for **detector simulation and performance studies
 <summary><b>🧠 Extra interests (curiosity sandbox)</b></summary>
 
 I also enjoy exploring: accelerator instrumentation concepts, HEP/QCD phenomenology, materials informatics for detector components, and physics visualization/education projects that make hard ideas feel intuitive.
+
+<p align="center">
+  <img src="PacksofParticlesCollidingFormingQGP.gif" width="520" alt="Heavy-ion collision / QGP-inspired visualization"/>
+</p>
+
+<p align="center">
+  <img src="Mandelbrot_sequence_fractal.gif" width="520" alt="Mandelbrot set (complex dynamics)"/>
+</p>
 
 </details>
 
