@@ -78,7 +78,7 @@ If you’re new to my profile, these are the themes I’m most proud of:
 
 ## 🔬 What I do
 
-I work on **detector R&D and physics-data pipelines** — from concept and simulation to analysis, and (when relevant) prototyping.
+I work on **detector R&D and physics-data pipelines**. From concept and simulation to analysis, and (when relevant) prototyping.
 
 **So far**, my work has focused on end-to-end workflows for detector performance studies (simulation → signal formation → reconstruction), typically combining tools like **Geant4**, **Garfield++/SRIM** (via Felix++), **ROOT**, and **ML** for quantitative optimization and reproducible analysis.
 
