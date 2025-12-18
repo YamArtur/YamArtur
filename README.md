@@ -304,9 +304,6 @@ Beyond my main pillars, I’m deeply interested in a wider set of topics that of
   <a href="https://www.postgresql.org/" title="PostgreSQL">
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   </a>
-  <a href="https://www.docker.com/" title="Docker">
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  </a>
 </p>
 
 </details>
@@ -319,11 +316,24 @@ Beyond my main pillars, I’m deeply interested in a wider set of topics that of
 <summary><b>📈 GitHub stats</b></summary>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YamArtur&show_icons=true&hide_title=true" height="155"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YamArtur&layout=compact" height="155"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=YamArtur&show_icons=true&hide_title=true&include_all_commits=true&hide_border=true"
+    height="155"
+    alt="GitHub stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YamArtur&layout=compact&langs_count=10&hide_border=true"
+    height="155"
+    alt="Most used languages"
+  />
 </p>
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YamArtur" height="165"/>
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=YamArtur&hide_border=true"
+    height="165"
+    alt="GitHub streak"
+  />
 </p>
 
 </details>
