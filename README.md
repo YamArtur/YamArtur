@@ -82,9 +82,17 @@ I work on **detector R&D and physics-data pipelines** — from concept and simul
 
 **So far**, my work has focused on end-to-end workflows for detector performance studies (simulation → signal formation → reconstruction), typically combining **Geant4**, **Garfield++/SRIM** (via Felix++), **ROOT**, and **ML** for quantitative optimization and reproducible analysis.
 
-**Now, as I start my MSc with Prof. Marco Bregant at IFUSP/HEPIC**, my scope is expanding toward **next-generation heavy-ion detector concepts for the LHC**, with particular attention to the **ALICE 3 physics and instrumentation drivers beyond Run 4 (Runs 5–6)**. I’m especially interested in how extreme requirements, **ultra-low-mass vertexing very close to the interaction point, precision tracking, fast timing PID, and forward measurements**, unlock measurements that remain out of reach with current detectors. The goal is to contribute to the R&D and validation path that can connect **physics goals with detector requirements and realistic performance**, including development of **analysis/simulation tooling** and, where feasible, a **functional prototype**.
+**Now, as I start my MSc with Prof. Marco Bregant at IFUSP/HEPIC**, my scope is expanding toward **next-generation heavy-ion detector concepts for the LHC**, motivated by the **ALICE 3 programme beyond Run 4 (Runs 5–6)**.
 
-In parallel, I continue contributing to **thermal-neutron detector instrumentation simulation** projects with Prof. Marcelo Munhoz, keeping a strong foundation in **MPGDs** while moving into a broader heavy-ion instrumentation agenda (and maintaining an eye on **long-term future-collider challenges**, including FCC-related topics).
+What makes ALICE 3 so exciting is a very bold idea: **push precision tracking as close to the collision point as physically possible while removing almost all unnecessary material**. The proposed core is a **retractable silicon-pixel vertex tracker inside the beam pipe**: it stays **retracted during injection**, and then moves in for collisions so the **first measurement layer sits at impressives ~5 mm radius with ~0.1% X₀**, enabling unprecedented vertexing for short-lived particles. In simple terms: *less material and a closer first hit results in far less multiple scattering and much sharper displaced-vertex reconstruction*, especially at **very low pT**, where today’s measurements are still limited.
+
+<p align="center">
+  <img src="ALICE3_DetectorConcept.png" alt="DetectorConcept" width="600">
+</p>
+
+Around this “in-beam-pipe vertexing” concept, ALICE 3 is designed as a **large-acceptance, silicon-based tracking experiment** complemented by **fast timing PID** (ultra-precise time-of-flight and RICH) and strong **forward capabilities** (including conversion-based photon measurements down to the MeV transverse-momentum scale). Together with the much larger data samples expected for Runs 5–6, this targets measurements that remain out of reach today: **multi-charm and beauty hadrons down to ultra-low pT, low-mass dielectrons as penetrating QGP probes, quarkonia and exotic states, jet–photon and heavy-flavour jet energy-balance studies, and ultra-soft photon observables**.
+
+In parallel, I continue contributing to **thermal-neutron detector instrumentation** with **GEM-based MPGDs (Micropattern Gaseous Detectors)**, and I build **analysis/simulation/ML workflows** on collider datasets, primarily from **ALICE**, and also (when relevant) from **CMS** and **ATLAS**, with an emphasis on reproducibility, performance validation, and physics-driven optimization.
 
 <p align="center">
   <img src="Simulation-heavy-non-Standard-Model-Higgs-13-TeV.gif" width="520" alt="HEP simulation visualization (13 TeV)"/>
