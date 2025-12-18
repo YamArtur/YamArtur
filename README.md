@@ -78,13 +78,13 @@ If you’re new to my profile, these are the themes I’m most proud of:
 
 ## 🔬 What I do
 
-I work on **detector R&D and physics-data pipelines**. From concept and simulation to analysis, and (when relevant) prototyping.
+I work on **detector R&D and physics-data pipelines** — from concept and simulation to analysis, and (when relevant) prototyping.
 
-**So far**, my work has focused on end-to-end workflows for detector performance studies (simulation → signal formation → reconstruction), typically combining tools like **Geant4**, **Garfield++/SRIM** (via Felix++), **ROOT**, and **ML** for quantitative optimization and reproducible analysis.
+**So far**, my work has focused on end-to-end workflows for detector performance studies (simulation → signal formation → reconstruction), typically combining **Geant4**, **Garfield++/SRIM** (via Felix++), **ROOT**, and **ML** for quantitative optimization and reproducible analysis.
 
-**Now, as I start my MSc with Prof. Marco Bregant at IFUSP/HEPIC**, my scope is expanding toward **next-generation detector concepts for future collider environments**, with a particular eye on **FCC studies / FCC-related detector R&D** and the challenges posed by **relativistic heavy-ion collisions at higher energies** than today’s standard regimes. The goal is to help develop and validate **new detection techniques and technologies** that can scale to future experimental demands, including building a **functional prototype** as part of the R&D path toward a more mature detector proposal. A **solid-state detector direction is a likely path**, though the exact technology choices will be defined as the project matures.
+**Now, as I start my MSc with Prof. Marco Bregant at IFUSP/HEPIC**, my scope is expanding toward **next-generation heavy-ion detector concepts for the LHC**, with particular attention to the **ALICE 3 physics and instrumentation drivers beyond Run 4 (Runs 5–6)**. I’m especially interested in how extreme requirements, **ultra-low-mass vertexing very close to the interaction point, precision tracking, fast timing PID, and forward measurements**, unlock measurements that remain out of reach with current detectors. The goal is to contribute to the R&D and validation path that can connect **physics goals with detector requirements and realistic performance**, including development of **analysis/simulation tooling** and, where feasible, a **functional prototype**.
 
-In parallel, I continue contributing to **thermal-neutron detector instrumentation simulation** projects with Prof. Marcelo Munhoz, keeping a strong foundation in MPGDs while moving into a broader, more ambitious instrumentation agenda.
+In parallel, I continue contributing to **thermal-neutron detector instrumentation simulation** projects with Prof. Marcelo Munhoz, keeping a strong foundation in **MPGDs** while moving into a broader heavy-ion instrumentation agenda (and maintaining an eye on **long-term future-collider challenges**, including FCC-related topics).
 
 <p align="center">
   <img src="Simulation-heavy-non-Standard-Model-Higgs-13-TeV.gif" width="520" alt="HEP simulation visualization (13 TeV)"/>
