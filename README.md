@@ -78,9 +78,9 @@ If you’re new to my profile, these are the themes I’m most proud of:
 
 ## 🔬 What I do
 
-I work on **detector R&D and physics-data pipelines** — from concept and simulation to analysis, and (when relevant) prototyping.
+I work on **detector R&D and physics-data pipelines**, from concept and simulation to data analysis, and (when relevant) prototyping at the HEPIC laboratories.
 
-**So far**, my work has focused on end-to-end workflows for detector performance studies (simulation → signal formation → reconstruction), typically combining **Geant4**, **Garfield++/SRIM** (via Felix++), **ROOT**, and **ML** for quantitative optimization and reproducible analysis.
+**So far**, my work has focused on end-to-end workflows for detector performance studies (simulation, signal formation and reconstruction), typically combining **Geant4**, **Garfield++/SRIM** (via an interpolator made by my research groupt still not avaible online called Felix++), **ROOT**, and **ML** for quantitative optimization and reproducible analysis.
 
 **Now, as I start my MSc with Prof. Marco Bregant at IFUSP/HEPIC**, my scope is expanding toward **next-generation heavy-ion detector concepts for the LHC**, motivated by the **ALICE 3 programme beyond Run 4 (Runs 5–6)**.
 
