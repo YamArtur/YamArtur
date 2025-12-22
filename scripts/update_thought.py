@@ -1,6 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-
 import json
 import re
 import sys
@@ -25,7 +22,6 @@ def load_quotes(path: Path):
     if not isinstance(data, list) or len(data) == 0:
         raise ValueError("quotes.json must be a non-empty JSON array.")
 
-    # Basic validation
     cleaned = []
     for i, q in enumerate(data):
         if not isinstance(q, dict):
@@ -41,45 +37,30 @@ def load_quotes(path: Path):
 
 
 def pick_quote(quotes):
-    # Use São Paulo local date so it "feels daily" for you.
     tz = ZoneInfo("America/Sao_Paulo")
     today = datetime.now(tz).date()
 
-    # Deterministic daily index, cycles forever:
     idx = today.toordinal() % len(quotes)
     return today, quotes[idx]
 
 
 def render_block(today: date, quote: dict) -> str:
     text = quote["text"].replace("\n", " ").strip()
-    author = quote["author"].strip()
-    source = quote["source"].strip()
+    author = quote.get("author", "").strip()
+    source = quote.get("source", "").strip()
 
-    # Escape to avoid HTML injection issues
-    text_esc = html.escape(text)
-    author_esc = html.escape(author) if author else ""
-    source_esc = html.escape(source) if source else ""
-
-    # Pretty, centered “card-like” layout (no table borders):
     lines = []
-    lines.append('<div align="center">')
-    lines.append(f'  <p><i>“{text_esc}”</i></p>')
+    lines.append(f'> *“{text}”*  ')
 
-    meta = []
-    if author_esc:
-        meta.append(f"<b>— {author_esc}</b>")
-    if source_esc:
-        meta.append(f"<sub>{source_esc}</sub>")
+    if author:
+        lines.append(f'> **— {author}**  ')
+    else:
+        lines.append(f'> **— Unknown**  ')
 
-    if meta:
-        # put author then source in separate lines
-        lines.append("  <p>")
-        lines.append("    " + "<br/>\n    ".join(meta))
-        lines.append("  </p>")
+    if source:
+        lines.append(f'> *{source}*  ')
 
-    lines.append(f'  <sub>Updated: {today.isoformat()} (America/Sao_Paulo)</sub>')
-    lines.append("</div>")
-
+    lines.append(f'> <sub>Auto-updated daily • {today.isoformat()}</sub>')
     return "\n".join(lines)
 
 
