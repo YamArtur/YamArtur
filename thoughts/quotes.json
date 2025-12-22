@@ -1,23 +1,38 @@
 [
   {
-    "text": "The first principle is that you must not fool yourself — and you are the easiest person to fool.",
+    "text": "Protons give an atom its identity, electrons its personality.",
+    "author": "Bill Bryson",
+    "source": "A Short History of Nearly Everything (2003)"
+  },
+  {
+    "text": "A mathematician will recognize Cauchy, Gauss, Jacobi, or Helmholtz after reading a few pages, just as musicians recognize from the first few bars Mozart, Beethoven, or Schubert.",
+    "author": "Ludwig Boltzmann",
+    "source": "Quoted in Arthur Koestler, The Act of Creation (1964) (often cited as p. 265)"
+  },
+  {
+    "text": "We can only see a short distance ahead, but we can see plenty there that needs to be done.",
+    "author": "Alan Turing",
+    "source": "Computing Machinery and Intelligence (Mind, 1950)"
+  },
+  {
+    "text": "All models are wrong, but some are useful.",
+    "author": "George E. P. Box",
+    "source": "Robustness in the strategy of scientific model building (1979) / widely attributed to Box"
+  },
+  {
+    "text": "The first principle is that you must not fool yourself—and you are the easiest person to fool.",
     "author": "Richard P. Feynman",
-    "source": "“Cargo Cult Science” (Caltech Commencement Address, 1974)"
+    "source": "Commencement address at Caltech (1974)"
   },
   {
-    "text": "Science is the belief in the ignorance of experts.",
+    "text": "Science is what we have learned about how to keep from fooling ourselves.",
     "author": "Richard P. Feynman",
-    "source": "“Cargo Cult Science” (Caltech Commencement Address, 1974)"
+    "source": "Cargo Cult Science (1974)"
   },
   {
-    "text": "As far as the laws of mathematics refer to reality, they are not certain; and as far as they are certain, they do not refer to reality.",
-    "author": "Albert Einstein",
-    "source": "“Geometry and Experience” (lecture, 1921)"
-  },
-  {
-    "text": "God does not play dice with the universe.",
-    "author": "Albert Einstein",
-    "source": "Letter to Max Born (1926)"
+    "text": "A new scientific truth does not triumph by convincing its opponents but rather because its opponents eventually die.",
+    "author": "Max Planck",
+    "source": "Scientific Autobiography (1949)"
   },
   {
     "text": "What we observe is not nature itself, but nature exposed to our method of questioning.",
@@ -25,44 +40,129 @@
     "source": "Physics and Philosophy (1958)"
   },
   {
-    "text": "In so far as a scientific statement speaks about reality, it must be falsifiable.",
-    "author": "Karl Popper",
-    "source": "The Logic of Scientific Discovery (1934/1959)"
+    "text": "Science is built up with facts, as a house is with stones; but a collection of facts is no more a science than a heap of stones is a house.",
+    "author": "Henri Poincaré",
+    "source": "Science and Hypothesis (1902)"
   },
   {
-    "text": "Our knowledge can only be finite, while our ignorance must necessarily be infinite.",
-    "author": "Karl Popper",
-    "source": "Conjectures and Refutations (1963)"
+    "text": "The most incomprehensible thing about the world is that it is comprehensible.",
+    "author": "Albert Einstein",
+    "source": "Physics and Reality (1936)"
   },
   {
-    "text": "Normal science ... is puzzle-solving.",
-    "author": "Thomas S. Kuhn",
-    "source": "The Structure of Scientific Revolutions (1962)"
+    "text": "God does not play dice with the universe.",
+    "author": "Albert Einstein",
+    "source": "Letter to Max Born (1926)"
   },
   {
-    "text": "Extraordinary claims require extraordinary evidence.",
-    "author": "Carl Sagan",
-    "source": "The Demon-Haunted World (1995)"
-  },
-  {
-    "text": "If I have seen further it is by standing on the shoulders of giants.",
+    "text": "If I have seen further it is by standing on the shoulders of Giants.",
     "author": "Isaac Newton",
     "source": "Letter to Robert Hooke (1675)"
   },
   {
-    "text": "Science is built up of facts as a house is built of stones; but an accumulation of facts is no more a science than a heap of stones is a house.",
-    "author": "Henri Poincaré",
-    "source": "Science and Method (1908)"
+    "text": "Nature is pleased with simplicity.",
+    "author": "Isaac Newton",
+    "source": "Principia / commonly attributed to Newton (exact phrasing varies)"
+  },
+  {
+    "text": "In questions of science, the authority of a thousand is not worth the humble reasoning of a single individual.",
+    "author": "Galileo Galilei",
+    "source": "Dialogue Concerning the Two Chief World Systems (1632) (attribution/translation varies)"
+  },
+  {
+    "text": "Mathematics is the language in which God has written the universe.",
+    "author": "Galileo Galilei",
+    "source": "Il Saggiatore (1623) (common translation/paraphrase)"
+  },
+  {
+    "text": "If you can't explain it simply, you don't understand it well enough.",
+    "author": "Albert Einstein",
+    "source": "Commonly attributed; primary source uncertain"
+  },
+  {
+    "text": "Extraordinary claims require extraordinary evidence.",
+    "author": "Carl Sagan",
+    "source": "Broca’s Brain (1979) / popularized by Sagan"
+  },
+  {
+    "text": "Absence of evidence is not evidence of absence.",
+    "author": "Carl Sagan",
+    "source": "Commonly attributed; phrasing varies"
+  },
+  {
+    "text": "The good thing about science is that it’s true whether or not you believe in it.",
+    "author": "Neil deGrasse Tyson",
+    "source": "Commonly attributed; source uncertain"
+  },
+  {
+    "text": "The purpose of computing is insight, not numbers.",
+    "author": "Richard W. Hamming",
+    "source": "Numerical Methods for Scientists and Engineers (1962) / widely attributed to Hamming"
   },
   {
     "text": "When you can measure what you are speaking about, and express it in numbers, you know something about it.",
     "author": "William Thomson (Lord Kelvin)",
-    "source": "Lecture: “Electrical Units of Measurement” (1883)"
+    "source": "Popular Lectures and Addresses (1883) / widely cited"
   },
   {
-    "text": "The theory of probabilities is at bottom nothing but common sense reduced to calculus.",
-    "author": "Pierre-Simon Laplace",
-    "source": "A Philosophical Essay on Probabilities (1814)"
+    "text": "The great tragedy of science—the slaying of a beautiful hypothesis by an ugly fact.",
+    "author": "Thomas H. Huxley",
+    "source": "Collected Essays / widely cited"
+  },
+  {
+    "text": "The universe is under no obligation to make sense to you.",
+    "author": "Neil deGrasse Tyson",
+    "source": "Commonly attributed; source uncertain"
+  },
+  {
+    "text": "Somewhere, something incredible is waiting to be known.",
+    "author": "Carl Sagan",
+    "source": "Commonly attributed; source uncertain"
+  },
+  {
+    "text": "Science is the belief in the ignorance of experts.",
+    "author": "Richard P. Feynman",
+    "source": "The Meaning of It All (1998) / phrasing varies in transcripts"
+  },
+  {
+    "text": "A theory can be proved by experiment; but no path leads from experiment to the birth of a theory.",
+    "author": "Albert Einstein",
+    "source": "Commonly attributed; source uncertain"
+  },
+  {
+    "text": "The scientist is not a person who gives the right answers, but one who asks the right questions.",
+    "author": "Claude Lévi-Strauss",
+    "source": "Commonly attributed; source uncertain"
+  },
+  {
+    "text": "Science may be described as the art of systematic over-simplification.",
+    "author": "Karl Popper",
+    "source": "The Open Society and Its Enemies / attribution varies"
+  },
+  {
+    "text": "Our knowledge can only be finite, while our ignorance must necessarily be infinite.",
+    "author": "Karl Popper",
+    "source": "Conjectures and Refutations (1963) (attribution/translation varies)"
+  },
+  {
+    "text": "Normal science does not aim at novelties of fact or theory and, when successful, finds none.",
+    "author": "Thomas S. Kuhn",
+    "source": "The Structure of Scientific Revolutions (1962)"
+  },
+  {
+    "text": "The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge.",
+    "author": "Stephen Hawking",
+    "source": "Commonly attributed; source uncertain"
+  },
+  {
+    "text": "If you wish to make an apple pie from scratch, you must first invent the universe.",
+    "author": "Carl Sagan",
+    "source": "Cosmos (1980)"
+  },
+  {
+    "text": "The whole of science is nothing more than a refinement of everyday thinking.",
+    "author": "Albert Einstein",
+    "source": "Commonly attributed; source uncertain"
   },
   {
     "text": "Ignorance more frequently begets confidence than does knowledge.",
@@ -70,19 +170,59 @@
     "source": "The Descent of Man (1871)"
   },
   {
-    "text": "Far better an approximate answer to the right question, which is often vague, than an exact answer to the wrong question, which can always be made precise.",
-    "author": "John W. Tukey",
-    "source": "The Future of Data Analysis (1962)"
+    "text": "We are to admit no more causes of natural things than such as are both true and sufficient to explain their appearances.",
+    "author": "Isaac Newton",
+    "source": "Principia (Rules of Reasoning)"
   },
   {
-    "text": "All models are wrong, but some are useful.",
-    "author": "George E. P. Box",
-    "source": "Empirical Model-Building and Response Surfaces (1987)"
+    "text": "The aim of science is not to open the door to infinite wisdom, but to set a limit to infinite error.",
+    "author": "Bertolt Brecht",
+    "source": "The Life of Galileo (1938) (quote often attributed to Brecht)"
   },
   {
-    "text": "We can only see a short distance ahead, but we can see plenty there that needs to be done.",
-    "author": "Alan M. Turing",
-    "source": "“Computing Machinery and Intelligence” (1950)"
+    "text": "It is the tension between creativity and skepticism that has produced the stunning and unexpected findings of science.",
+    "author": "Carl Sagan",
+    "source": "The Demon-Haunted World (1995) (paraphrase/attribution varies)"
+  },
+  {
+    "text": "The test of all knowledge is experiment. Experiment is the sole judge of scientific truth.",
+    "author": "Richard P. Feynman",
+    "source": "The Feynman Lectures on Physics (Vol. I)"
+  },
+  {
+    "text": "An expert is a person who has made all the mistakes that can be made in a very narrow field.",
+    "author": "Niels Bohr",
+    "source": "Commonly attributed; primary source uncertain"
+  },
+  {
+    "text": "How wonderful that we have met with a paradox. Now we have some hope of making progress.",
+    "author": "Niels Bohr",
+    "source": "Commonly attributed; source uncertain"
+  },
+  {
+    "text": "The laws of physics and chemistry are completely known, and the difficulty is only that the exact application leads to equations too complex to be soluble.",
+    "author": "P. A. M. Dirac",
+    "source": "Quantum Mechanics of Many-Electron Systems (1929)"
+  },
+  {
+    "text": "The important thing is not to stop questioning. Curiosity has its own reason for existing.",
+    "author": "Albert Einstein",
+    "source": "Commonly attributed; source uncertain"
+  },
+  {
+    "text": "What I cannot create, I do not understand.",
+    "author": "Richard P. Feynman",
+    "source": "Commonly attributed (seen on Feynman’s blackboard); exact context uncertain"
+  },
+  {
+    "text": "Everything should be made as simple as possible, but not simpler.",
+    "author": "Albert Einstein",
+    "source": "Commonly attributed; source uncertain"
+  },
+  {
+    "text": "Science is a way of thinking much more than it is a body of knowledge.",
+    "author": "Carl Sagan",
+    "source": "Broca’s Brain / popular quote in Sagan’s writings (phrasing varies)"
   },
   {
     "text": "Not only is the universe stranger than we imagine, it is stranger than we can imagine.",
@@ -90,38 +230,43 @@
     "source": "Possible Worlds (1927)"
   },
   {
-    "text": "We know more than we can tell.",
-    "author": "Michael Polanyi",
-    "source": "The Tacit Dimension (1966)"
+    "text": "A scientist is happy, not in resting on his attainments but in the steady acquisition of fresh knowledge.",
+    "author": "Joseph Priestley",
+    "source": "Commonly attributed; source uncertain"
   },
   {
-    "text": "The unreasonable effectiveness of mathematics in the natural sciences.",
-    "author": "Eugene P. Wigner",
-    "source": "Essay title (1960)"
+    "text": "The function of imagination in science is to create, out of the known, the unknown.",
+    "author": "John Tyndall",
+    "source": "Commonly attributed; source uncertain"
   },
   {
-    "text": "A wise man proportions his belief to the evidence.",
-    "author": "David Hume",
-    "source": "An Enquiry Concerning Human Understanding (1748)"
+    "text": "Chance favors the prepared mind.",
+    "author": "Louis Pasteur",
+    "source": "Lecture at the University of Lille (1854) (commonly cited)"
   },
   {
-    "text": "Nature, to be commanded, must be obeyed.",
-    "author": "Francis Bacon",
-    "source": "Novum Organum (1620)"
+    "text": "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
+    "author": "Aristotle",
+    "source": "Commonly attributed; source uncertain"
   },
   {
-    "text": "A physical experiment is not simply the observation of a phenomenon; it is, besides, the theoretical interpretation of this phenomenon.",
-    "author": "Pierre Duhem",
-    "source": "The Aim and Structure of Physical Theory (1906)"
+    "text": "What we know is a drop, what we don’t know is an ocean.",
+    "author": "Isaac Newton",
+    "source": "Commonly attributed; source uncertain"
   },
   {
-    "text": "The good thing about science is that it’s true whether or not you believe in it.",
-    "author": "Neil deGrasse Tyson",
-    "source": "Public talks/interviews (attributed)"
+    "text": "The art and science of asking questions is the source of all knowledge.",
+    "author": "Thomas Berger",
+    "source": "Commonly attributed; source uncertain"
   },
   {
-    "text": "Make everything as simple as possible, but not simpler.",
+    "text": "Theories should be as simple as possible, but no simpler than that.",
     "author": "Albert Einstein",
-    "source": "Commonly attributed (exact primary source debated)"
+    "source": "Commonly attributed; source uncertain"
+  },
+  {
+    "text": "For me mathematics is just an instrument I enjoy playing; I don’t care if the problem is important, as long as it’s an interesting puzzle.",
+    "author": "Freeman Dyson",
+    "source": "Commonly attributed; I couldn’t confirm a primary source quickly—treat as attribution to verify"
   }
 ]
