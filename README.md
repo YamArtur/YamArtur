@@ -108,6 +108,15 @@ In parallel, I continue contributing to **thermal-neutron detector instrumentati
 
 ---
 
+## ☀️ Thought of the day
+
+<!-- THOUGHT_OF_THE_DAY:START -->
+(placeholder — will be auto-updated daily)
+<!-- THOUGHT_OF_THE_DAY:END -->
+
+---
+
+
 ## 🧭 Research pillars
 
 - **Detector instrumentation (MPGD/GEM, TPC, solid-state candidates):** performance optimization, resolution × efficiency trade-offs, signal formation, charge transport, and prototype-oriented thinking.
