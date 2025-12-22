@@ -111,12 +111,10 @@ In parallel, I continue contributing to **thermal-neutron detector instrumentati
 ## ☀️ Thought of the day
 
 <!-- THOUGHT_OF_THE_DAY:START -->
-> _Simulation earns trust only after it survives comparison to reality—again and again._  
->
-> <sub>— <b>Author Name</b> • <i>Daily note</i></sub>
+(placeholder — will be auto-updated daily)
 <!-- THOUGHT_OF_THE_DAY:END -->
----
 
+---
 
 ## 🧭 Research pillars
 
