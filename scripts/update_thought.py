@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 from __future__ import annotations
 
 import json
@@ -8,9 +7,9 @@ from datetime import datetime
 from pathlib import Path
 
 try:
-    from zoneinfo import ZoneInfo  # Python 3.9+
+    from zoneinfo import ZoneInfo  
 except Exception:
-    ZoneInfo = None  # fallback
+    ZoneInfo = None  
 
 
 START = "<!-- THOUGHT_OF_THE_DAY:START -->"
@@ -43,20 +42,16 @@ def _today_date_str() -> str:
     if ZoneInfo is not None:
         tz = ZoneInfo("America/Sao_Paulo")
         return datetime.now(tz).date().isoformat()
-    # Fallback (UTC)
     return datetime.utcnow().date().isoformat()
 
 
 def _pick_index(date_iso: str, n: int) -> int:
-    # Determinístico por dia: ordinal % n (cíclico)
     y, m, d = map(int, date_iso.split("-"))
     ordinal = datetime(y, m, d).toordinal()
     return ordinal % n
 
 
 def _render_block(date_iso: str, q: Quote, idx: int, n: int) -> str:
-    # GitHub Alerts (fica bem bonito no README)
-    # https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#alerts
     lines = []
     lines.append(START)
     lines.append("> [!TIP]")
@@ -64,12 +59,9 @@ def _render_block(date_iso: str, q: Quote, idx: int, n: int) -> str:
     lines.append(">")
     lines.append(f"> _“{q.text}”_")
     lines.append(">")
-    # Autor
     lines.append(f"> — **{q.author}**")
-    # Fonte (se houver)
     if q.source:
         lines.append(f"> <sub>{q.source}</sub>")
-    # Rodapé
     lines.append(f"> <sub>({idx + 1}/{n}) • auto-updated daily</sub>")
     lines.append(END)
     return "\n".join(lines) + "\n"
