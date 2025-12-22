@@ -2,65 +2,122 @@
 from __future__ import annotations
 
 import json
-from datetime import datetime, date
+import re
+from dataclasses import dataclass
+from datetime import datetime
 from pathlib import Path
 
+try:
+    from zoneinfo import ZoneInfo  # Python 3.9+
+except Exception:
+    ZoneInfo = None  # fallback
+
+
 START = "<!-- THOUGHT_OF_THE_DAY:START -->"
-END   = "<!-- THOUGHT_OF_THE_DAY:END -->"
+END = "<!-- THOUGHT_OF_THE_DAY:END -->"
 
-ROOT = Path(__file__).resolve().parents[1]
-QUOTES = ROOT / "thoughts" / "quotes.json"
-README = ROOT / "README.md"
 
-def load_quotes():
-    data = json.loads(QUOTES.read_text(encoding="utf-8"))
-    if not isinstance(data, list) or len(data) == 0:
-        raise RuntimeError("thoughts/quotes.json must be a non-empty list.")
-    return data
+@dataclass(frozen=True)
+class Quote:
+    text: str
+    author: str
+    source: str
 
-def day_index(d: date) -> int:
-    epoch = date(1970, 1, 1)
-    return (d - epoch).days
+    @staticmethod
+    def from_obj(obj: dict) -> "Quote":
+        text = str(obj.get("text", "")).strip()
+        author = str(obj.get("author", "")).strip()
+        source = str(obj.get("source", "")).strip()
+        if not text:
+            raise ValueError("Found a quote with empty 'text'.")
+        if not author:
+            author = "Unknown"
+        return Quote(text=text, author=author, source=source)
 
-def pick(quotes):
-    today = datetime.utcnow().date()  # cron é UTC; mantém consistente
-    q = quotes[day_index(today) % len(quotes)]
-    return q, today.isoformat()
 
-def format_block(q, day_str: str) -> str:
-    text = (q.get("text") or "").strip()
-    author = (q.get("author") or "").strip()
-    source = (q.get("source") or "").strip()
-    if not text:
-        raise RuntimeError("Each entry must have a non-empty 'text'.")
+def _repo_root() -> Path:
+    return Path(__file__).resolve().parents[1]
 
-    out = []
-    out.append(f"**Thought of the day** — `{day_str}`")
-    out.append("")
-    out.append(f"> {text}")
-    if author or source:
-        tail = author
-        if source:
-            tail = (tail + " — " if tail else "") + f"*{source}*"
-        out.append("")
-        out.append(f"<sub>{tail}</sub>")
-    return "\n".join(out).strip() + "\n"
 
-def replace(readme: str, content: str) -> str:
-    if START not in readme or END not in readme:
-        raise RuntimeError("README.md is missing THOUGHT_OF_THE_DAY markers.")
-    before = readme.split(START)[0]
-    after = readme.split(END)[1]
-    return before + START + "\n" + content + END + after
+def _today_date_str() -> str:
+    if ZoneInfo is not None:
+        tz = ZoneInfo("America/Sao_Paulo")
+        return datetime.now(tz).date().isoformat()
+    # Fallback (UTC)
+    return datetime.utcnow().date().isoformat()
 
-def main():
-    quotes = load_quotes()
-    q, day = pick(quotes)
-    new_block = "\n\n" + format_block(q, day) + "\n"
-    txt = README.read_text(encoding="utf-8")
-    updated = replace(txt, new_block)
-    if updated != txt:
-        README.write_text(updated, encoding="utf-8")
+
+def _pick_index(date_iso: str, n: int) -> int:
+    # Determinístico por dia: ordinal % n (cíclico)
+    y, m, d = map(int, date_iso.split("-"))
+    ordinal = datetime(y, m, d).toordinal()
+    return ordinal % n
+
+
+def _render_block(date_iso: str, q: Quote, idx: int, n: int) -> str:
+    # GitHub Alerts (fica bem bonito no README)
+    # https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#alerts
+    lines = []
+    lines.append(START)
+    lines.append("> [!TIP]")
+    lines.append(f"> **Thought of the day — {date_iso}**")
+    lines.append(">")
+    lines.append(f"> _“{q.text}”_")
+    lines.append(">")
+    # Autor
+    lines.append(f"> — **{q.author}**")
+    # Fonte (se houver)
+    if q.source:
+        lines.append(f"> <sub>{q.source}</sub>")
+    # Rodapé
+    lines.append(f"> <sub>({idx + 1}/{n}) • auto-updated daily</sub>")
+    lines.append(END)
+    return "\n".join(lines) + "\n"
+
+
+def main() -> None:
+    root = _repo_root()
+    quotes_path = root / "thoughts" / "quotes.json"
+    readme_path = root / "README.md"
+
+    if not quotes_path.exists():
+        raise FileNotFoundError(f"Missing {quotes_path}")
+    if not readme_path.exists():
+        raise FileNotFoundError(f"Missing {readme_path}")
+
+    quotes_raw = json.loads(quotes_path.read_text(encoding="utf-8"))
+    if not isinstance(quotes_raw, list) or len(quotes_raw) == 0:
+        raise ValueError("quotes.json must be a non-empty JSON array.")
+
+    quotes: list[Quote] = [Quote.from_obj(o) for o in quotes_raw]
+
+    date_iso = _today_date_str()
+    idx = _pick_index(date_iso, len(quotes))
+    q = quotes[idx]
+
+    new_block = _render_block(date_iso, q, idx, len(quotes))
+
+    readme = readme_path.read_text(encoding="utf-8")
+
+    pattern = re.compile(
+        re.escape(START) + r".*?" + re.escape(END),
+        flags=re.DOTALL
+    )
+
+    if not pattern.search(readme):
+        raise RuntimeError(
+            "Markers not found in README.md. "
+            "Make sure you have:\n"
+            f"{START}\n...\n{END}"
+        )
+
+    updated = pattern.sub(new_block.strip(), readme).rstrip() + "\n"
+    if updated != readme:
+        readme_path.write_text(updated, encoding="utf-8")
+        print(f"Updated README.md with quote #{idx + 1}/{len(quotes)} for {date_iso}.")
+    else:
+        print("README.md already up to date; no changes made.")
+
 
 if __name__ == "__main__":
     main()
