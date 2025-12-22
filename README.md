@@ -111,7 +111,14 @@ In parallel, I continue contributing to **thermal-neutron detector instrumentati
 ## ☀️ Thought of the day
 
 <!-- THOUGHT_OF_THE_DAY:START -->
-(placeholder — will be auto-updated daily)
+> [!TIP]
+> **Thought of the day — 2025-12-22**
+>
+> _“Normal science ... is puzzle-solving.”_
+>
+> — **Thomas S. Kuhn**
+> <sub>The Structure of Scientific Revolutions (1962)</sub>
+> <sub>(8/25) • auto-updated daily</sub>
 <!-- THOUGHT_OF_THE_DAY:END -->
 
 ---
