@@ -1,115 +1,119 @@
-from __future__ import annotations
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 
 import json
 import re
-from dataclasses import dataclass
-from datetime import datetime
+import sys
+import html
+from datetime import datetime, date
+from zoneinfo import ZoneInfo
 from pathlib import Path
 
-try:
-    from zoneinfo import ZoneInfo  
-except Exception:
-    ZoneInfo = None  
-
+README_PATH = Path("README.md")
+QUOTES_PATH = Path("thoughts/quotes.json")
 
 START = "<!-- THOUGHT_OF_THE_DAY:START -->"
 END = "<!-- THOUGHT_OF_THE_DAY:END -->"
 
 
-@dataclass(frozen=True)
-class Quote:
-    text: str
-    author: str
-    source: str
+def load_quotes(path: Path):
+    if not path.exists():
+        raise FileNotFoundError(f"Quotes file not found: {path}")
 
-    @staticmethod
-    def from_obj(obj: dict) -> "Quote":
-        text = str(obj.get("text", "")).strip()
-        author = str(obj.get("author", "")).strip()
-        source = str(obj.get("source", "")).strip()
-        if not text:
-            raise ValueError("Found a quote with empty 'text'.")
-        if not author:
-            author = "Unknown"
-        return Quote(text=text, author=author, source=source)
+    data = json.loads(path.read_text(encoding="utf-8"))
 
-
-def _repo_root() -> Path:
-    return Path(__file__).resolve().parents[1]
-
-
-def _today_date_str() -> str:
-    if ZoneInfo is not None:
-        tz = ZoneInfo("America/Sao_Paulo")
-        return datetime.now(tz).date().isoformat()
-    return datetime.utcnow().date().isoformat()
-
-
-def _pick_index(date_iso: str, n: int) -> int:
-    y, m, d = map(int, date_iso.split("-"))
-    ordinal = datetime(y, m, d).toordinal()
-    return ordinal % n
-
-
-def _render_block(date_iso: str, q: Quote, idx: int, n: int) -> str:
-    lines = []
-    lines.append(START)
-    lines.append("> [!TIP]")
-    lines.append(f"> **Thought of the day — {date_iso}**")
-    lines.append(">")
-    lines.append(f"> _“{q.text}”_")
-    lines.append(">")
-    lines.append(f"> — **{q.author}**")
-    if q.source:
-        lines.append(f"> <sub>{q.source}</sub>")
-    lines.append(f"> <sub>({idx + 1}/{n}) • auto-updated daily</sub>")
-    lines.append(END)
-    return "\n".join(lines) + "\n"
-
-
-def main() -> None:
-    root = _repo_root()
-    quotes_path = root / "thoughts" / "quotes.json"
-    readme_path = root / "README.md"
-
-    if not quotes_path.exists():
-        raise FileNotFoundError(f"Missing {quotes_path}")
-    if not readme_path.exists():
-        raise FileNotFoundError(f"Missing {readme_path}")
-
-    quotes_raw = json.loads(quotes_path.read_text(encoding="utf-8"))
-    if not isinstance(quotes_raw, list) or len(quotes_raw) == 0:
+    if not isinstance(data, list) or len(data) == 0:
         raise ValueError("quotes.json must be a non-empty JSON array.")
 
-    quotes: list[Quote] = [Quote.from_obj(o) for o in quotes_raw]
+    # Basic validation
+    cleaned = []
+    for i, q in enumerate(data):
+        if not isinstance(q, dict):
+            raise ValueError(f"Entry {i} is not an object.")
+        text = str(q.get("text", "")).strip()
+        author = str(q.get("author", "")).strip()
+        source = str(q.get("source", "")).strip()
+        if not text:
+            raise ValueError(f"Entry {i} has empty 'text'.")
+        cleaned.append({"text": text, "author": author, "source": source})
 
-    date_iso = _today_date_str()
-    idx = _pick_index(date_iso, len(quotes))
-    q = quotes[idx]
+    return cleaned
 
-    new_block = _render_block(date_iso, q, idx, len(quotes))
 
-    readme = readme_path.read_text(encoding="utf-8")
+def pick_quote(quotes):
+    # Use São Paulo local date so it "feels daily" for you.
+    tz = ZoneInfo("America/Sao_Paulo")
+    today = datetime.now(tz).date()
+
+    # Deterministic daily index, cycles forever:
+    idx = today.toordinal() % len(quotes)
+    return today, quotes[idx]
+
+
+def render_block(today: date, quote: dict) -> str:
+    text = quote["text"].replace("\n", " ").strip()
+    author = quote["author"].strip()
+    source = quote["source"].strip()
+
+    # Escape to avoid HTML injection issues
+    text_esc = html.escape(text)
+    author_esc = html.escape(author) if author else ""
+    source_esc = html.escape(source) if source else ""
+
+    # Pretty, centered “card-like” layout (no table borders):
+    lines = []
+    lines.append('<div align="center">')
+    lines.append(f'  <p><i>“{text_esc}”</i></p>')
+
+    meta = []
+    if author_esc:
+        meta.append(f"<b>— {author_esc}</b>")
+    if source_esc:
+        meta.append(f"<sub>{source_esc}</sub>")
+
+    if meta:
+        # put author then source in separate lines
+        lines.append("  <p>")
+        lines.append("    " + "<br/>\n    ".join(meta))
+        lines.append("  </p>")
+
+    lines.append(f'  <sub>Updated: {today.isoformat()} (America/Sao_Paulo)</sub>')
+    lines.append("</div>")
+
+    return "\n".join(lines)
+
+
+def update_readme(readme_text: str, new_block: str) -> str:
+    if START not in readme_text or END not in readme_text:
+        raise ValueError(f"README markers not found. Expected {START} and {END}.")
 
     pattern = re.compile(
         re.escape(START) + r".*?" + re.escape(END),
         flags=re.DOTALL
     )
 
-    if not pattern.search(readme):
-        raise RuntimeError(
-            "Markers not found in README.md. "
-            "Make sure you have:\n"
-            f"{START}\n...\n{END}"
-        )
+    replacement = START + "\n" + new_block + "\n" + END
+    return pattern.sub(replacement, readme_text, count=1)
 
-    updated = pattern.sub(new_block.strip(), readme).rstrip() + "\n"
+
+def main():
+    quotes = load_quotes(QUOTES_PATH)
+    today, q = pick_quote(quotes)
+    block = render_block(today, q)
+
+    readme = README_PATH.read_text(encoding="utf-8")
+    updated = update_readme(readme, block)
+
     if updated != readme:
-        readme_path.write_text(updated, encoding="utf-8")
-        print(f"Updated README.md with quote #{idx + 1}/{len(quotes)} for {date_iso}.")
+        README_PATH.write_text(updated, encoding="utf-8")
+        print(f"README updated with quote of {today.isoformat()}.")
     else:
-        print("README.md already up to date; no changes made.")
+        print("No changes needed (already up to date).")
 
 
 if __name__ == "__main__":
-    main()
+    try:
+        main()
+    except Exception as e:
+        print(f"ERROR: {e}", file=sys.stderr)
+        sys.exit(1)
