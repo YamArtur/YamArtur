@@ -111,7 +111,10 @@ In parallel, I continue contributing to **thermal-neutron detector instrumentati
 ## ☀️ Thought of the day
 
 <!-- THOUGHT_OF_THE_DAY:START -->
-(placeholder — will be auto-updated daily)
+> *“Somewhere, something incredible is waiting to be known.”*  
+> **— Carl Sagan**  
+> *Commonly attributed; source uncertain*  
+> <sub>Auto-updated daily • 2025-12-22</sub>
 <!-- THOUGHT_OF_THE_DAY:END -->
 
 ---
