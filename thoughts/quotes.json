@@ -1,22 +1,127 @@
 [
-  {"text":"Rigor is kindness to your future self: state assumptions, check units, and make the result falsifiable.","author":"Daily note","source":""},
-  {"text":"If you can’t describe what would change your mind, you’re not doing science yet.","author":"Daily note","source":""},
-  {"text":"A detector is a translator: nature speaks in interactions; we answer in signals and uncertainties.","author":"Daily note","source":""},
-  {"text":"Good reconstruction is calibrated humility: model the systematics as carefully as the central value.","author":"Daily note","source":""},
-  {"text":"Simulation earns trust only after it survives comparison to reality—again and again.","author":"Daily note","source":""},
-  {"text":"Chase clarity: a clean plot with honest errors beats a complicated story every time.","author":"Daily note","source":""},
-  {"text":"Every pipeline is an experiment. Version it, test it, and make it reproducible.","author":"Daily note","source":""},
-  {"text":"Hardware constrains what you can measure; analysis constrains what you can claim.","author":"Daily note","source":""},
-  {"text":"When results disagree, first suspect definitions, units, selections, and calibrations.","author":"Daily note","source":""},
-  {"text":"Your best ally against bias is a pre-defined comparison and a transparent uncertainty budget.","author":"Daily note","source":""},
-  {"text":"Physics rewards patient iteration: build, measure, learn, and rebuild.","author":"Daily note","source":""},
-  {"text":"The most dangerous number is one without an error bar.","author":"Daily note","source":""},
-  {"text":"A beautiful idea becomes science when it meets a quantitative test.","author":"Daily note","source":""},
-  {"text":"In high-multiplicity environments, your real enemy is ambiguity—fight it with timing and geometry.","author":"Daily note","source":""},
-  {"text":"If the plot looks too perfect, audit the selection and the defaults.","author":"Daily note","source":""},
-  {"text":"Optimization without validation is just wishful thinking with extra steps.","author":"Daily note","source":""},
-  {"text":"A good notebook tells a story; a good repository tells the truth reproducibly.","author":"Daily note","source":""},
-  {"text":"Instruments are arguments made of metal, silicon, gas, and code.","author":"Daily note","source":""},
-  {"text":"Measure twice: once for the value, once for the systematics.","author":"Daily note","source":""},
-  {"text":"When in doubt, reduce the problem until you can test one knob at a time.","author":"Daily note","source":""}
+  {
+    "text": "The first principle is that you must not fool yourself — and you are the easiest person to fool.",
+    "author": "Richard P. Feynman",
+    "source": "“Cargo Cult Science” (Caltech Commencement Address, 1974)"
+  },
+  {
+    "text": "Science is the belief in the ignorance of experts.",
+    "author": "Richard P. Feynman",
+    "source": "“Cargo Cult Science” (Caltech Commencement Address, 1974)"
+  },
+  {
+    "text": "As far as the laws of mathematics refer to reality, they are not certain; and as far as they are certain, they do not refer to reality.",
+    "author": "Albert Einstein",
+    "source": "“Geometry and Experience” (lecture, 1921)"
+  },
+  {
+    "text": "God does not play dice with the universe.",
+    "author": "Albert Einstein",
+    "source": "Letter to Max Born (1926)"
+  },
+  {
+    "text": "What we observe is not nature itself, but nature exposed to our method of questioning.",
+    "author": "Werner Heisenberg",
+    "source": "Physics and Philosophy (1958)"
+  },
+  {
+    "text": "In so far as a scientific statement speaks about reality, it must be falsifiable.",
+    "author": "Karl Popper",
+    "source": "The Logic of Scientific Discovery (1934/1959)"
+  },
+  {
+    "text": "Our knowledge can only be finite, while our ignorance must necessarily be infinite.",
+    "author": "Karl Popper",
+    "source": "Conjectures and Refutations (1963)"
+  },
+  {
+    "text": "Normal science ... is puzzle-solving.",
+    "author": "Thomas S. Kuhn",
+    "source": "The Structure of Scientific Revolutions (1962)"
+  },
+  {
+    "text": "Extraordinary claims require extraordinary evidence.",
+    "author": "Carl Sagan",
+    "source": "The Demon-Haunted World (1995)"
+  },
+  {
+    "text": "If I have seen further it is by standing on the shoulders of giants.",
+    "author": "Isaac Newton",
+    "source": "Letter to Robert Hooke (1675)"
+  },
+  {
+    "text": "Science is built up of facts as a house is built of stones; but an accumulation of facts is no more a science than a heap of stones is a house.",
+    "author": "Henri Poincaré",
+    "source": "Science and Method (1908)"
+  },
+  {
+    "text": "When you can measure what you are speaking about, and express it in numbers, you know something about it.",
+    "author": "William Thomson (Lord Kelvin)",
+    "source": "Lecture: “Electrical Units of Measurement” (1883)"
+  },
+  {
+    "text": "The theory of probabilities is at bottom nothing but common sense reduced to calculus.",
+    "author": "Pierre-Simon Laplace",
+    "source": "A Philosophical Essay on Probabilities (1814)"
+  },
+  {
+    "text": "Ignorance more frequently begets confidence than does knowledge.",
+    "author": "Charles Darwin",
+    "source": "The Descent of Man (1871)"
+  },
+  {
+    "text": "Far better an approximate answer to the right question, which is often vague, than an exact answer to the wrong question, which can always be made precise.",
+    "author": "John W. Tukey",
+    "source": "The Future of Data Analysis (1962)"
+  },
+  {
+    "text": "All models are wrong, but some are useful.",
+    "author": "George E. P. Box",
+    "source": "Empirical Model-Building and Response Surfaces (1987)"
+  },
+  {
+    "text": "We can only see a short distance ahead, but we can see plenty there that needs to be done.",
+    "author": "Alan M. Turing",
+    "source": "“Computing Machinery and Intelligence” (1950)"
+  },
+  {
+    "text": "Not only is the universe stranger than we imagine, it is stranger than we can imagine.",
+    "author": "J. B. S. Haldane",
+    "source": "Possible Worlds (1927)"
+  },
+  {
+    "text": "We know more than we can tell.",
+    "author": "Michael Polanyi",
+    "source": "The Tacit Dimension (1966)"
+  },
+  {
+    "text": "The unreasonable effectiveness of mathematics in the natural sciences.",
+    "author": "Eugene P. Wigner",
+    "source": "Essay title (1960)"
+  },
+  {
+    "text": "A wise man proportions his belief to the evidence.",
+    "author": "David Hume",
+    "source": "An Enquiry Concerning Human Understanding (1748)"
+  },
+  {
+    "text": "Nature, to be commanded, must be obeyed.",
+    "author": "Francis Bacon",
+    "source": "Novum Organum (1620)"
+  },
+  {
+    "text": "A physical experiment is not simply the observation of a phenomenon; it is, besides, the theoretical interpretation of this phenomenon.",
+    "author": "Pierre Duhem",
+    "source": "The Aim and Structure of Physical Theory (1906)"
+  },
+  {
+    "text": "The good thing about science is that it’s true whether or not you believe in it.",
+    "author": "Neil deGrasse Tyson",
+    "source": "Public talks/interviews (attributed)"
+  },
+  {
+    "text": "Make everything as simple as possible, but not simpler.",
+    "author": "Albert Einstein",
+    "source": "Commonly attributed (exact primary source debated)"
+  }
 ]
