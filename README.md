@@ -30,13 +30,27 @@
 
 ## 👋 About Me
 
+<table>
+<tr>
+<td valign="top" width="62%">
+
 Hello everyone — welcome to my GitHub profile! I’m Yam Artur Omoto Teodoro, an MSc student in **High-Energy Physics and Nuclear Instrumentation** at **USP (IFUSP)**, supervised by **Prof. Marco Bregant (PhD)**, working where **physics meets advanced machines and real data**. 😎
 
 What keeps me moving toward becoming a physicist and researcher is the opportunity to collaborate with brilliant people at the frontier of knowledge — not only to help solve real-world problems, but also to help humanity understand the deeper truth of the cosmos. I’m driven by **curiosity and a refusal to be complacent**: I don’t like simply accepting things as they are. I want to understand **what is happening, why it happens, and what it means for our place in reality**, in a logical, mathematical, and deeply personal way. That ongoing search is also how I deal with my own existential questions — and it’s why I study with near-obsessive intensity.
 
 I’m especially drawn to **instrumentation** for particle accelerators and particle detectors because it’s how we “test nature” under some of the most extreme conditions we can create on Earth. All the science and engineering behind such complex machines fascinates me immensely. Few scientific machines can reach regimes like these — and I love understanding what happens behind the scenes: how the hardware, electronics, and software turn fundamental interactions into reliable measurements.
 
-My guiding values are **curiosity, impact, and rigor**.
+My three main guiding values are **curiosity, impact, and rigor**.
+
+<td valign="middle" align="center" width="38%">
+
+  <img src="DataGeneratedinParticlePhysicsDetectors.gif" width="400"
+       alt="Particle detector event display / tracking visualization"/>
+
+</td>
+
+</tr>
+</table>
 
 <details>
 <summary><b>Personal details about me</b></summary>
@@ -51,7 +65,6 @@ Outside the lab, I’m unapologetically “nerdy” in the best way. I’m into 
 I’m fascinated by astrophotography and aerospace engineering — I plan to get a telescope to start taking my own sky photos, and (with a friend) to build my first rocket. I’m a fan of Star Wars, Lord of the Rings, Marvel/DC (Batman is my favorite), Pokémon, and Harry Potter. I like drawing a lot, and I often combine it with D&D + 3D printing to create and paint my own miniatures.
 
 I also genuinely enjoy digital/analog electronics as a hobby: replicating clever projects I find online or building practical solutions for everyday problems. BetaZero — a chess-playing robotic arm driven by an AlphaZero-style agent — is one example of that spirit.
-
 </details>
 
 ---
