@@ -32,21 +32,16 @@
 
 <table>
 <tr>
-<td valign="top" width="62%">
+<td valign="top" width="50%">
 
-Hello everyone — welcome to my GitHub profile! I’m Yam Artur Omoto Teodoro, an MSc student in **High-Energy Physics and Nuclear Instrumentation** at **USP (IFUSP)**, supervised by **Prof. Marco Bregant (PhD)**, working where **physics meets advanced machines and real data**. 😎
+Hello everyone, welcome to my GitHub profile! I’m Yam Artur Omoto Teodoro, an MSc student in **High-Energy Physics and Nuclear Instrumentation** at **USP (IFUSP)**, supervised by **Prof. Marco Bregant (PhD)**, working where **physics meets advanced machines and real data**. 😎
 
-What keeps me moving toward becoming a physicist and researcher is the opportunity to collaborate with brilliant people at the frontier of knowledge — not only to help solve real-world problems, but also to help humanity understand the deeper truth of the cosmos. I’m driven by **curiosity and a refusal to be complacent**: I don’t like simply accepting things as they are. I want to understand **what is happening, why it happens, and what it means for our place in reality**, in a logical, mathematical, and deeply personal way. That ongoing search is also how I deal with my own existential questions — and it’s why I study with near-obsessive intensity.
+What keeps me moving toward becoming a physicist and researcher is the opportunity to collaborate with brilliant people at the frontier of knowledge, not only to help solve real-world problems, but also to help humanity understand the deeper truth of the cosmos. I’m driven by **curiosity and a refusal to be complacent**: I don’t like simply accepting things as they are. I want to understand **what is happening, why it happens, and what it means for our place in reality**, in a logical, mathematical, and deeply personal way. That ongoing search is also how I deal with my own existential questions, and it’s why I study with near-obsessive intensity.
 
-I’m especially drawn to **instrumentation** for particle accelerators and particle detectors because it’s how we “test nature” under some of the most extreme conditions we can create on Earth. All the science and engineering behind such complex machines fascinates me immensely. Few scientific machines can reach regimes like these — and I love understanding what happens behind the scenes: how the hardware, electronics, and software turn fundamental interactions into reliable measurements.
-
-My three main guiding values are **curiosity, impact, and rigor**.
+I’m especially drawn to **instrumentation** for particle accelerators and particle detectors because it’s how we “test nature” under some of the most extreme conditions we can create on Earth, which I think is really cool. All the science and engineering behind such complex machines fascinates me immensely. Few scientific efforts can reach regimes like these, and I love understanding what happens behind the scenes: how the hardware, electronics, and software turn fundamental interactions into reliable measurements.
 
 <td valign="middle" align="center" width="38%">
-
-  <img src="DataGeneratedinParticlePhysicsDetectors.gif" width="400"
-       alt="Particle detector event display / tracking visualization"/>
-
+  <img src="201902-053_01.jpg" style="width:100%; height:auto;" alt="..." />
 </td>
 
 </tr>
