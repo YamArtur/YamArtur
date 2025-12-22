@@ -1,0 +1,22 @@
+[
+  {"text":"Rigor is kindness to your future self: state assumptions, check units, and make the result falsifiable.","author":"Daily note","source":""},
+  {"text":"If you can’t describe what would change your mind, you’re not doing science yet.","author":"Daily note","source":""},
+  {"text":"A detector is a translator: nature speaks in interactions; we answer in signals and uncertainties.","author":"Daily note","source":""},
+  {"text":"Good reconstruction is calibrated humility: model the systematics as carefully as the central value.","author":"Daily note","source":""},
+  {"text":"Simulation earns trust only after it survives comparison to reality—again and again.","author":"Daily note","source":""},
+  {"text":"Chase clarity: a clean plot with honest errors beats a complicated story every time.","author":"Daily note","source":""},
+  {"text":"Every pipeline is an experiment. Version it, test it, and make it reproducible.","author":"Daily note","source":""},
+  {"text":"Hardware constrains what you can measure; analysis constrains what you can claim.","author":"Daily note","source":""},
+  {"text":"When results disagree, first suspect definitions, units, selections, and calibrations.","author":"Daily note","source":""},
+  {"text":"Your best ally against bias is a pre-defined comparison and a transparent uncertainty budget.","author":"Daily note","source":""},
+  {"text":"Physics rewards patient iteration: build, measure, learn, and rebuild.","author":"Daily note","source":""},
+  {"text":"The most dangerous number is one without an error bar.","author":"Daily note","source":""},
+  {"text":"A beautiful idea becomes science when it meets a quantitative test.","author":"Daily note","source":""},
+  {"text":"In high-multiplicity environments, your real enemy is ambiguity—fight it with timing and geometry.","author":"Daily note","source":""},
+  {"text":"If the plot looks too perfect, audit the selection and the defaults.","author":"Daily note","source":""},
+  {"text":"Optimization without validation is just wishful thinking with extra steps.","author":"Daily note","source":""},
+  {"text":"A good notebook tells a story; a good repository tells the truth reproducibly.","author":"Daily note","source":""},
+  {"text":"Instruments are arguments made of metal, silicon, gas, and code.","author":"Daily note","source":""},
+  {"text":"Measure twice: once for the value, once for the systematics.","author":"Daily note","source":""},
+  {"text":"When in doubt, reduce the problem until you can test one knob at a time.","author":"Daily note","source":""}
+]
