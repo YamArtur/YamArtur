@@ -111,10 +111,10 @@ In parallel, I continue contributing to **thermal-neutron detector instrumentati
 ## ☀️ Thought of the day
 
 <!-- THOUGHT_OF_THE_DAY:START -->
-> *“Somewhere, something incredible is waiting to be known.”*  
-> **— Carl Sagan**  
-> *Commonly attributed; source uncertain*  
-> <sub>Auto-updated daily • 2025-12-22</sub>
+> *“Science is the belief in the ignorance of experts.”*  
+> **— Richard P. Feynman**  
+> *The Meaning of It All (1998) / phrasing varies in transcripts*  
+> <sub>Auto-updated daily • 2025-12-23</sub>
 <!-- THOUGHT_OF_THE_DAY:END -->
 
 ---
