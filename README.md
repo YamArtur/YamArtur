@@ -111,10 +111,10 @@ In parallel, I continue contributing to **thermal-neutron detector instrumentati
 ## ☀️ Thought of the day
 
 <!-- THOUGHT_OF_THE_DAY:START -->
-> *“A theory can be proved by experiment; but no path leads from experiment to the birth of a theory.”*  
-> **— Albert Einstein**  
+> *“The scientist is not a person who gives the right answers, but one who asks the right questions.”*  
+> **— Claude Lévi-Strauss**  
 > *Commonly attributed; source uncertain*  
-> <sub>Auto-updated daily • 2025-12-24</sub>
+> <sub>Auto-updated daily • 2025-12-25</sub>
 <!-- THOUGHT_OF_THE_DAY:END -->
 
 ---
