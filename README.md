@@ -111,10 +111,10 @@ In parallel, I continue contributing to **thermal-neutron detector instrumentati
 ## ☀️ Thought of the day
 
 <!-- THOUGHT_OF_THE_DAY:START -->
-> *“What I cannot create, I do not understand.”*  
-> **— Richard P. Feynman**  
-> *Commonly attributed (seen on Feynman’s blackboard); exact context uncertain*  
-> <sub>Auto-updated daily • 2026-01-10</sub>
+> *“Everything should be made as simple as possible, but not simpler.”*  
+> **— Albert Einstein**  
+> *Commonly attributed; source uncertain*  
+> <sub>Auto-updated daily • 2026-01-11</sub>
 <!-- THOUGHT_OF_THE_DAY:END -->
 
 ---
