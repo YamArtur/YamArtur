@@ -111,10 +111,10 @@ In parallel, I continue contributing to **thermal-neutron detector instrumentati
 ## ☀️ Thought of the day
 
 <!-- THOUGHT_OF_THE_DAY:START -->
-> *“Everything should be made as simple as possible, but not simpler.”*  
-> **— Albert Einstein**  
-> *Commonly attributed; source uncertain*  
-> <sub>Auto-updated daily • 2026-01-11</sub>
+> *“Science is a way of thinking much more than it is a body of knowledge.”*  
+> **— Carl Sagan**  
+> *Broca’s Brain / popular quote in Sagan’s writings (phrasing varies)*  
+> <sub>Auto-updated daily • 2026-01-12</sub>
 <!-- THOUGHT_OF_THE_DAY:END -->
 
 ---
