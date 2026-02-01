@@ -111,10 +111,10 @@ In parallel, I continue contributing to **thermal-neutron detector instrumentati
 ## ☀️ Thought of the day
 
 <!-- THOUGHT_OF_THE_DAY:START -->
-> *“The most incomprehensible thing about the world is that it is comprehensible.”*  
+> *“God does not play dice with the universe.”*  
 > **— Albert Einstein**  
-> *Physics and Reality (1936)*  
-> <sub>Auto-updated daily • 2026-01-31</sub>
+> *Letter to Max Born (1926)*  
+> <sub>Auto-updated daily • 2026-02-01</sub>
 <!-- THOUGHT_OF_THE_DAY:END -->
 
 ---
