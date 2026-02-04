@@ -111,10 +111,10 @@ In parallel, I continue contributing to **thermal-neutron detector instrumentati
 ## ☀️ Thought of the day
 
 <!-- THOUGHT_OF_THE_DAY:START -->
-> *“Nature is pleased with simplicity.”*  
-> **— Isaac Newton**  
-> *Principia / commonly attributed to Newton (exact phrasing varies)*  
-> <sub>Auto-updated daily • 2026-02-03</sub>
+> *“In questions of science, the authority of a thousand is not worth the humble reasoning of a single individual.”*  
+> **— Galileo Galilei**  
+> *Dialogue Concerning the Two Chief World Systems (1632) (attribution/translation varies)*  
+> <sub>Auto-updated daily • 2026-02-04</sub>
 <!-- THOUGHT_OF_THE_DAY:END -->
 
 ---
