@@ -111,10 +111,10 @@ In parallel, I continue contributing to **thermal-neutron detector instrumentati
 ## ☀️ Thought of the day
 
 <!-- THOUGHT_OF_THE_DAY:START -->
-> *“Normal science does not aim at novelties of fact or theory and, when successful, finds none.”*  
-> **— Thomas S. Kuhn**  
-> *The Structure of Scientific Revolutions (1962)*  
-> <sub>Auto-updated daily • 2026-02-20</sub>
+> *“The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge.”*  
+> **— Stephen Hawking**  
+> *Commonly attributed; source uncertain*  
+> <sub>Auto-updated daily • 2026-02-21</sub>
 <!-- THOUGHT_OF_THE_DAY:END -->
 
 ---
