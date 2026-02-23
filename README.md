@@ -111,10 +111,10 @@ In parallel, I continue contributing to **thermal-neutron detector instrumentati
 ## ☀️ Thought of the day
 
 <!-- THOUGHT_OF_THE_DAY:START -->
-> *“If you wish to make an apple pie from scratch, you must first invent the universe.”*  
-> **— Carl Sagan**  
-> *Cosmos (1980)*  
-> <sub>Auto-updated daily • 2026-02-22</sub>
+> *“The whole of science is nothing more than a refinement of everyday thinking.”*  
+> **— Albert Einstein**  
+> *Commonly attributed; source uncertain*  
+> <sub>Auto-updated daily • 2026-02-23</sub>
 <!-- THOUGHT_OF_THE_DAY:END -->
 
 ---
