@@ -111,10 +111,10 @@ In parallel, I continue contributing to **thermal-neutron detector instrumentati
 ## ☀️ Thought of the day
 
 <!-- THOUGHT_OF_THE_DAY:START -->
-> *“The laws of physics and chemistry are completely known, and the difficulty is only that the exact application leads to equations too complex to be soluble.”*  
-> **— P. A. M. Dirac**  
-> *Quantum Mechanics of Many-Electron Systems (1929)*  
-> <sub>Auto-updated daily • 2026-03-03</sub>
+> *“The important thing is not to stop questioning. Curiosity has its own reason for existing.”*  
+> **— Albert Einstein**  
+> *Commonly attributed; source uncertain*  
+> <sub>Auto-updated daily • 2026-03-04</sub>
 <!-- THOUGHT_OF_THE_DAY:END -->
 
 ---
