@@ -111,10 +111,10 @@ In parallel, I continue contributing to **thermal-neutron detector instrumentati
 ## ☀️ Thought of the day
 
 <!-- THOUGHT_OF_THE_DAY:START -->
-> *“The important thing is not to stop questioning. Curiosity has its own reason for existing.”*  
-> **— Albert Einstein**  
-> *Commonly attributed; source uncertain*  
-> <sub>Auto-updated daily • 2026-03-04</sub>
+> *“What I cannot create, I do not understand.”*  
+> **— Richard P. Feynman**  
+> *Commonly attributed (seen on Feynman’s blackboard); exact context uncertain*  
+> <sub>Auto-updated daily • 2026-03-05</sub>
 <!-- THOUGHT_OF_THE_DAY:END -->
 
 ---
