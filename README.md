@@ -111,10 +111,10 @@ In parallel, I continue contributing to **thermal-neutron detector instrumentati
 ## ☀️ Thought of the day
 
 <!-- THOUGHT_OF_THE_DAY:START -->
-> *“Theories should be as simple as possible, but no simpler than that.”*  
-> **— Albert Einstein**  
-> *Commonly attributed; source uncertain*  
-> <sub>Auto-updated daily • 2026-03-15</sub>
+> *“For me mathematics is just an instrument I enjoy playing; I don’t care if the problem is important, as long as it’s an interesting puzzle.”*  
+> **— Freeman Dyson**  
+> *Commonly attributed; I couldn’t confirm a primary source quickly—treat as attribution to verify*  
+> <sub>Auto-updated daily • 2026-03-16</sub>
 <!-- THOUGHT_OF_THE_DAY:END -->
 
 ---
