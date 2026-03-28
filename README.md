@@ -111,10 +111,10 @@ In parallel, I continue contributing to **thermal-neutron detector instrumentati
 ## ☀️ Thought of the day
 
 <!-- THOUGHT_OF_THE_DAY:START -->
-> *“God does not play dice with the universe.”*  
-> **— Albert Einstein**  
-> *Letter to Max Born (1926)*  
-> <sub>Auto-updated daily • 2026-03-27</sub>
+> *“If I have seen further it is by standing on the shoulders of Giants.”*  
+> **— Isaac Newton**  
+> *Letter to Robert Hooke (1675)*  
+> <sub>Auto-updated daily • 2026-03-28</sub>
 <!-- THOUGHT_OF_THE_DAY:END -->
 
 ---
