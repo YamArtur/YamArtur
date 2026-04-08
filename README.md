@@ -111,10 +111,10 @@ In parallel, I continue contributing to **thermal-neutron detector instrumentati
 ## ☀️ Thought of the day
 
 <!-- THOUGHT_OF_THE_DAY:START -->
-> *“The great tragedy of science—the slaying of a beautiful hypothesis by an ugly fact.”*  
-> **— Thomas H. Huxley**  
-> *Collected Essays / widely cited*  
-> <sub>Auto-updated daily • 2026-04-07</sub>
+> *“The universe is under no obligation to make sense to you.”*  
+> **— Neil deGrasse Tyson**  
+> *Commonly attributed; source uncertain*  
+> <sub>Auto-updated daily • 2026-04-08</sub>
 <!-- THOUGHT_OF_THE_DAY:END -->
 
 ---
