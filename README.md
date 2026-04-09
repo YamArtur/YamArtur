@@ -111,10 +111,10 @@ In parallel, I continue contributing to **thermal-neutron detector instrumentati
 ## ☀️ Thought of the day
 
 <!-- THOUGHT_OF_THE_DAY:START -->
-> *“The universe is under no obligation to make sense to you.”*  
-> **— Neil deGrasse Tyson**  
+> *“Somewhere, something incredible is waiting to be known.”*  
+> **— Carl Sagan**  
 > *Commonly attributed; source uncertain*  
-> <sub>Auto-updated daily • 2026-04-08</sub>
+> <sub>Auto-updated daily • 2026-04-09</sub>
 <!-- THOUGHT_OF_THE_DAY:END -->
 
 ---
