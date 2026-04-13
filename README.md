@@ -111,10 +111,10 @@ In parallel, I continue contributing to **thermal-neutron detector instrumentati
 ## ☀️ Thought of the day
 
 <!-- THOUGHT_OF_THE_DAY:START -->
-> *“The scientist is not a person who gives the right answers, but one who asks the right questions.”*  
-> **— Claude Lévi-Strauss**  
-> *Commonly attributed; source uncertain*  
-> <sub>Auto-updated daily • 2026-04-12</sub>
+> *“Science may be described as the art of systematic over-simplification.”*  
+> **— Karl Popper**  
+> *The Open Society and Its Enemies / attribution varies*  
+> <sub>Auto-updated daily • 2026-04-13</sub>
 <!-- THOUGHT_OF_THE_DAY:END -->
 
 ---
