@@ -111,10 +111,10 @@ In parallel, I continue contributing to **thermal-neutron detector instrumentati
 ## ☀️ Thought of the day
 
 <!-- THOUGHT_OF_THE_DAY:START -->
-> *“Science is a way of thinking much more than it is a body of knowledge.”*  
-> **— Carl Sagan**  
-> *Broca’s Brain / popular quote in Sagan’s writings (phrasing varies)*  
-> <sub>Auto-updated daily • 2026-04-30</sub>
+> *“Not only is the universe stranger than we imagine, it is stranger than we can imagine.”*  
+> **— J. B. S. Haldane**  
+> *Possible Worlds (1927)*  
+> <sub>Auto-updated daily • 2026-05-01</sub>
 <!-- THOUGHT_OF_THE_DAY:END -->
 
 ---
