@@ -111,10 +111,10 @@ In parallel, I continue contributing to **thermal-neutron detector instrumentati
 ## ☀️ Thought of the day
 
 <!-- THOUGHT_OF_THE_DAY:START -->
-> *“The art and science of asking questions is the source of all knowledge.”*  
-> **— Thomas Berger**  
+> *“Theories should be as simple as possible, but no simpler than that.”*  
+> **— Albert Einstein**  
 > *Commonly attributed; source uncertain*  
-> <sub>Auto-updated daily • 2026-05-07</sub>
+> <sub>Auto-updated daily • 2026-05-08</sub>
 <!-- THOUGHT_OF_THE_DAY:END -->
 
 ---
