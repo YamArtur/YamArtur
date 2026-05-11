@@ -111,10 +111,10 @@ In parallel, I continue contributing to **thermal-neutron detector instrumentati
 ## ☀️ Thought of the day
 
 <!-- THOUGHT_OF_THE_DAY:START -->
-> *“Protons give an atom its identity, electrons its personality.”*  
-> **— Bill Bryson**  
-> *A Short History of Nearly Everything (2003)*  
-> <sub>Auto-updated daily • 2026-05-10</sub>
+> *“A mathematician will recognize Cauchy, Gauss, Jacobi, or Helmholtz after reading a few pages, just as musicians recognize from the first few bars Mozart, Beethoven, or Schubert.”*  
+> **— Ludwig Boltzmann**  
+> *Quoted in Arthur Koestler, The Act of Creation (1964) (often cited as p. 265)*  
+> <sub>Auto-updated daily • 2026-05-11</sub>
 <!-- THOUGHT_OF_THE_DAY:END -->
 
 ---
