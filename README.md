@@ -111,10 +111,10 @@ In parallel, I continue contributing to **thermal-neutron detector instrumentati
 ## ☀️ Thought of the day
 
 <!-- THOUGHT_OF_THE_DAY:START -->
-> *“A mathematician will recognize Cauchy, Gauss, Jacobi, or Helmholtz after reading a few pages, just as musicians recognize from the first few bars Mozart, Beethoven, or Schubert.”*  
-> **— Ludwig Boltzmann**  
-> *Quoted in Arthur Koestler, The Act of Creation (1964) (often cited as p. 265)*  
-> <sub>Auto-updated daily • 2026-05-11</sub>
+> *“We can only see a short distance ahead, but we can see plenty there that needs to be done.”*  
+> **— Alan Turing**  
+> *Computing Machinery and Intelligence (Mind, 1950)*  
+> <sub>Auto-updated daily • 2026-05-12</sub>
 <!-- THOUGHT_OF_THE_DAY:END -->
 
 ---
