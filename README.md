@@ -111,10 +111,10 @@ In parallel, I continue contributing to **thermal-neutron detector instrumentati
 ## ☀️ Thought of the day
 
 <!-- THOUGHT_OF_THE_DAY:START -->
-> *“All models are wrong, but some are useful.”*  
-> **— George E. P. Box**  
-> *Robustness in the strategy of scientific model building (1979) / widely attributed to Box*  
-> <sub>Auto-updated daily • 2026-05-13</sub>
+> *“The first principle is that you must not fool yourself—and you are the easiest person to fool.”*  
+> **— Richard P. Feynman**  
+> *Commencement address at Caltech (1974)*  
+> <sub>Auto-updated daily • 2026-05-14</sub>
 <!-- THOUGHT_OF_THE_DAY:END -->
 
 ---
