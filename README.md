@@ -111,10 +111,10 @@ In parallel, I continue contributing to **thermal-neutron detector instrumentati
 ## ☀️ Thought of the day
 
 <!-- THOUGHT_OF_THE_DAY:START -->
-> *“The first principle is that you must not fool yourself—and you are the easiest person to fool.”*  
+> *“Science is what we have learned about how to keep from fooling ourselves.”*  
 > **— Richard P. Feynman**  
-> *Commencement address at Caltech (1974)*  
-> <sub>Auto-updated daily • 2026-05-14</sub>
+> *Cargo Cult Science (1974)*  
+> <sub>Auto-updated daily • 2026-05-15</sub>
 <!-- THOUGHT_OF_THE_DAY:END -->
 
 ---
