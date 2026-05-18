@@ -111,10 +111,10 @@ In parallel, I continue contributing to **thermal-neutron detector instrumentati
 ## ☀️ Thought of the day
 
 <!-- THOUGHT_OF_THE_DAY:START -->
-> *“What we observe is not nature itself, but nature exposed to our method of questioning.”*  
-> **— Werner Heisenberg**  
-> *Physics and Philosophy (1958)*  
-> <sub>Auto-updated daily • 2026-05-17</sub>
+> *“Science is built up with facts, as a house is with stones; but a collection of facts is no more a science than a heap of stones is a house.”*  
+> **— Henri Poincaré**  
+> *Science and Hypothesis (1902)*  
+> <sub>Auto-updated daily • 2026-05-18</sub>
 <!-- THOUGHT_OF_THE_DAY:END -->
 
 ---
