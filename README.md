@@ -111,10 +111,10 @@ In parallel, I continue contributing to **thermal-neutron detector instrumentati
 ## ☀️ Thought of the day
 
 <!-- THOUGHT_OF_THE_DAY:START -->
-> *“In questions of science, the authority of a thousand is not worth the humble reasoning of a single individual.”*  
+> *“Mathematics is the language in which God has written the universe.”*  
 > **— Galileo Galilei**  
-> *Dialogue Concerning the Two Chief World Systems (1632) (attribution/translation varies)*  
-> <sub>Auto-updated daily • 2026-05-23</sub>
+> *Il Saggiatore (1623) (common translation/paraphrase)*  
+> <sub>Auto-updated daily • 2026-05-24</sub>
 <!-- THOUGHT_OF_THE_DAY:END -->
 
 ---
