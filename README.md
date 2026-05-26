@@ -111,10 +111,10 @@ In parallel, I continue contributing to **thermal-neutron detector instrumentati
 ## ☀️ Thought of the day
 
 <!-- THOUGHT_OF_THE_DAY:START -->
-> *“If you can't explain it simply, you don't understand it well enough.”*  
-> **— Albert Einstein**  
-> *Commonly attributed; primary source uncertain*  
-> <sub>Auto-updated daily • 2026-05-25</sub>
+> *“Extraordinary claims require extraordinary evidence.”*  
+> **— Carl Sagan**  
+> *Broca’s Brain (1979) / popularized by Sagan*  
+> <sub>Auto-updated daily • 2026-05-26</sub>
 <!-- THOUGHT_OF_THE_DAY:END -->
 
 ---
