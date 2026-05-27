@@ -111,10 +111,10 @@ In parallel, I continue contributing to **thermal-neutron detector instrumentati
 ## ☀️ Thought of the day
 
 <!-- THOUGHT_OF_THE_DAY:START -->
-> *“Extraordinary claims require extraordinary evidence.”*  
+> *“Absence of evidence is not evidence of absence.”*  
 > **— Carl Sagan**  
-> *Broca’s Brain (1979) / popularized by Sagan*  
-> <sub>Auto-updated daily • 2026-05-26</sub>
+> *Commonly attributed; phrasing varies*  
+> <sub>Auto-updated daily • 2026-05-27</sub>
 <!-- THOUGHT_OF_THE_DAY:END -->
 
 ---
