@@ -111,10 +111,10 @@ In parallel, I continue contributing to **thermal-neutron detector instrumentati
 ## ☀️ Thought of the day
 
 <!-- THOUGHT_OF_THE_DAY:START -->
-> *“When you can measure what you are speaking about, and express it in numbers, you know something about it.”*  
-> **— William Thomson (Lord Kelvin)**  
-> *Popular Lectures and Addresses (1883) / widely cited*  
-> <sub>Auto-updated daily • 2026-05-30</sub>
+> *“The great tragedy of science—the slaying of a beautiful hypothesis by an ugly fact.”*  
+> **— Thomas H. Huxley**  
+> *Collected Essays / widely cited*  
+> <sub>Auto-updated daily • 2026-05-31</sub>
 <!-- THOUGHT_OF_THE_DAY:END -->
 
 ---
