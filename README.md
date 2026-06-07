@@ -111,10 +111,10 @@ In parallel, I continue contributing to **thermal-neutron detector instrumentati
 ## ☀️ Thought of the day
 
 <!-- THOUGHT_OF_THE_DAY:START -->
-> *“Science may be described as the art of systematic over-simplification.”*  
+> *“Our knowledge can only be finite, while our ignorance must necessarily be infinite.”*  
 > **— Karl Popper**  
-> *The Open Society and Its Enemies / attribution varies*  
-> <sub>Auto-updated daily • 2026-06-06</sub>
+> *Conjectures and Refutations (1963) (attribution/translation varies)*  
+> <sub>Auto-updated daily • 2026-06-07</sub>
 <!-- THOUGHT_OF_THE_DAY:END -->
 
 ---
