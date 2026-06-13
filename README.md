@@ -111,10 +111,10 @@ In parallel, I continue contributing to **thermal-neutron detector instrumentati
 ## ☀️ Thought of the day
 
 <!-- THOUGHT_OF_THE_DAY:START -->
-> *“Ignorance more frequently begets confidence than does knowledge.”*  
-> **— Charles Darwin**  
-> *The Descent of Man (1871)*  
-> <sub>Auto-updated daily • 2026-06-12</sub>
+> *“We are to admit no more causes of natural things than such as are both true and sufficient to explain their appearances.”*  
+> **— Isaac Newton**  
+> *Principia (Rules of Reasoning)*  
+> <sub>Auto-updated daily • 2026-06-13</sub>
 <!-- THOUGHT_OF_THE_DAY:END -->
 
 ---
