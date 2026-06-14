@@ -111,10 +111,10 @@ In parallel, I continue contributing to **thermal-neutron detector instrumentati
 ## ☀️ Thought of the day
 
 <!-- THOUGHT_OF_THE_DAY:START -->
-> *“We are to admit no more causes of natural things than such as are both true and sufficient to explain their appearances.”*  
-> **— Isaac Newton**  
-> *Principia (Rules of Reasoning)*  
-> <sub>Auto-updated daily • 2026-06-13</sub>
+> *“The aim of science is not to open the door to infinite wisdom, but to set a limit to infinite error.”*  
+> **— Bertolt Brecht**  
+> *The Life of Galileo (1938) (quote often attributed to Brecht)*  
+> <sub>Auto-updated daily • 2026-06-14</sub>
 <!-- THOUGHT_OF_THE_DAY:END -->
 
 ---
