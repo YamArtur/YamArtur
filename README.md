@@ -111,10 +111,10 @@ In parallel, I continue contributing to **thermal-neutron detector instrumentati
 ## ☀️ Thought of the day
 
 <!-- THOUGHT_OF_THE_DAY:START -->
-> *“The aim of science is not to open the door to infinite wisdom, but to set a limit to infinite error.”*  
-> **— Bertolt Brecht**  
-> *The Life of Galileo (1938) (quote often attributed to Brecht)*  
-> <sub>Auto-updated daily • 2026-06-14</sub>
+> *“It is the tension between creativity and skepticism that has produced the stunning and unexpected findings of science.”*  
+> **— Carl Sagan**  
+> *The Demon-Haunted World (1995) (paraphrase/attribution varies)*  
+> <sub>Auto-updated daily • 2026-06-15</sub>
 <!-- THOUGHT_OF_THE_DAY:END -->
 
 ---
