@@ -111,10 +111,10 @@ In parallel, I continue contributing to **thermal-neutron detector instrumentati
 ## ☀️ Thought of the day
 
 <!-- THOUGHT_OF_THE_DAY:START -->
-> *“An expert is a person who has made all the mistakes that can be made in a very narrow field.”*  
+> *“How wonderful that we have met with a paradox. Now we have some hope of making progress.”*  
 > **— Niels Bohr**  
-> *Commonly attributed; primary source uncertain*  
-> <sub>Auto-updated daily • 2026-06-17</sub>
+> *Commonly attributed; source uncertain*  
+> <sub>Auto-updated daily • 2026-06-18</sub>
 <!-- THOUGHT_OF_THE_DAY:END -->
 
 ---
