@@ -111,10 +111,10 @@ In parallel, I continue contributing to **thermal-neutron detector instrumentati
 ## ☀️ Thought of the day
 
 <!-- THOUGHT_OF_THE_DAY:START -->
-> *“How wonderful that we have met with a paradox. Now we have some hope of making progress.”*  
-> **— Niels Bohr**  
-> *Commonly attributed; source uncertain*  
-> <sub>Auto-updated daily • 2026-06-18</sub>
+> *“The laws of physics and chemistry are completely known, and the difficulty is only that the exact application leads to equations too complex to be soluble.”*  
+> **— P. A. M. Dirac**  
+> *Quantum Mechanics of Many-Electron Systems (1929)*  
+> <sub>Auto-updated daily • 2026-06-19</sub>
 <!-- THOUGHT_OF_THE_DAY:END -->
 
 ---
