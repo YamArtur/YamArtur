@@ -111,10 +111,10 @@ In parallel, I continue contributing to **thermal-neutron detector instrumentati
 ## ☀️ Thought of the day
 
 <!-- THOUGHT_OF_THE_DAY:START -->
-> *“Not only is the universe stranger than we imagine, it is stranger than we can imagine.”*  
-> **— J. B. S. Haldane**  
-> *Possible Worlds (1927)*  
-> <sub>Auto-updated daily • 2026-06-24</sub>
+> *“A scientist is happy, not in resting on his attainments but in the steady acquisition of fresh knowledge.”*  
+> **— Joseph Priestley**  
+> *Commonly attributed; source uncertain*  
+> <sub>Auto-updated daily • 2026-06-25</sub>
 <!-- THOUGHT_OF_THE_DAY:END -->
 
 ---
