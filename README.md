@@ -111,10 +111,10 @@ In parallel, I continue contributing to **thermal-neutron detector instrumentati
 ## ☀️ Thought of the day
 
 <!-- THOUGHT_OF_THE_DAY:START -->
-> *“Science is what we have learned about how to keep from fooling ourselves.”*  
-> **— Richard P. Feynman**  
-> *Cargo Cult Science (1974)*  
-> <sub>Auto-updated daily • 2026-07-08</sub>
+> *“A new scientific truth does not triumph by convincing its opponents but rather because its opponents eventually die.”*  
+> **— Max Planck**  
+> *Scientific Autobiography (1949)*  
+> <sub>Auto-updated daily • 2026-07-09</sub>
 <!-- THOUGHT_OF_THE_DAY:END -->
 
 ---
