@@ -111,10 +111,10 @@ In parallel, I continue contributing to **thermal-neutron detector instrumentati
 ## ☀️ Thought of the day
 
 <!-- THOUGHT_OF_THE_DAY:START -->
-> *“A new scientific truth does not triumph by convincing its opponents but rather because its opponents eventually die.”*  
-> **— Max Planck**  
-> *Scientific Autobiography (1949)*  
-> <sub>Auto-updated daily • 2026-07-09</sub>
+> *“What we observe is not nature itself, but nature exposed to our method of questioning.”*  
+> **— Werner Heisenberg**  
+> *Physics and Philosophy (1958)*  
+> <sub>Auto-updated daily • 2026-07-10</sub>
 <!-- THOUGHT_OF_THE_DAY:END -->
 
 ---
