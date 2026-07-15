@@ -111,10 +111,10 @@ In parallel, I continue contributing to **thermal-neutron detector instrumentati
 ## ☀️ Thought of the day
 
 <!-- THOUGHT_OF_THE_DAY:START -->
-> *“If I have seen further it is by standing on the shoulders of Giants.”*  
+> *“Nature is pleased with simplicity.”*  
 > **— Isaac Newton**  
-> *Letter to Robert Hooke (1675)*  
-> <sub>Auto-updated daily • 2026-07-14</sub>
+> *Principia / commonly attributed to Newton (exact phrasing varies)*  
+> <sub>Auto-updated daily • 2026-07-15</sub>
 <!-- THOUGHT_OF_THE_DAY:END -->
 
 ---
