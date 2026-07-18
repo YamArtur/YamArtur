@@ -111,10 +111,10 @@ In parallel, I continue contributing to **thermal-neutron detector instrumentati
 ## ☀️ Thought of the day
 
 <!-- THOUGHT_OF_THE_DAY:START -->
-> *“Mathematics is the language in which God has written the universe.”*  
-> **— Galileo Galilei**  
-> *Il Saggiatore (1623) (common translation/paraphrase)*  
-> <sub>Auto-updated daily • 2026-07-17</sub>
+> *“If you can't explain it simply, you don't understand it well enough.”*  
+> **— Albert Einstein**  
+> *Commonly attributed; primary source uncertain*  
+> <sub>Auto-updated daily • 2026-07-18</sub>
 <!-- THOUGHT_OF_THE_DAY:END -->
 
 ---
