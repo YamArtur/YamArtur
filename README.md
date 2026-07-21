@@ -111,10 +111,10 @@ In parallel, I continue contributing to **thermal-neutron detector instrumentati
 ## ☀️ Thought of the day
 
 <!-- THOUGHT_OF_THE_DAY:START -->
-> *“Absence of evidence is not evidence of absence.”*  
-> **— Carl Sagan**  
-> *Commonly attributed; phrasing varies*  
-> <sub>Auto-updated daily • 2026-07-20</sub>
+> *“The good thing about science is that it’s true whether or not you believe in it.”*  
+> **— Neil deGrasse Tyson**  
+> *Commonly attributed; source uncertain*  
+> <sub>Auto-updated daily • 2026-07-21</sub>
 <!-- THOUGHT_OF_THE_DAY:END -->
 
 ---
