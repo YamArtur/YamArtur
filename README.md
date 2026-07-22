@@ -111,10 +111,10 @@ In parallel, I continue contributing to **thermal-neutron detector instrumentati
 ## ☀️ Thought of the day
 
 <!-- THOUGHT_OF_THE_DAY:START -->
-> *“The good thing about science is that it’s true whether or not you believe in it.”*  
-> **— Neil deGrasse Tyson**  
-> *Commonly attributed; source uncertain*  
-> <sub>Auto-updated daily • 2026-07-21</sub>
+> *“The purpose of computing is insight, not numbers.”*  
+> **— Richard W. Hamming**  
+> *Numerical Methods for Scientists and Engineers (1962) / widely attributed to Hamming*  
+> <sub>Auto-updated daily • 2026-07-22</sub>
 <!-- THOUGHT_OF_THE_DAY:END -->
 
 ---
