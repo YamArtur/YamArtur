@@ -111,10 +111,10 @@ In parallel, I continue contributing to **thermal-neutron detector instrumentati
 ## ☀️ Thought of the day
 
 <!-- THOUGHT_OF_THE_DAY:START -->
-> *“The purpose of computing is insight, not numbers.”*  
-> **— Richard W. Hamming**  
-> *Numerical Methods for Scientists and Engineers (1962) / widely attributed to Hamming*  
-> <sub>Auto-updated daily • 2026-07-22</sub>
+> *“When you can measure what you are speaking about, and express it in numbers, you know something about it.”*  
+> **— William Thomson (Lord Kelvin)**  
+> *Popular Lectures and Addresses (1883) / widely cited*  
+> <sub>Auto-updated daily • 2026-07-23</sub>
 <!-- THOUGHT_OF_THE_DAY:END -->
 
 ---
