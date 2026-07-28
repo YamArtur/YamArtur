@@ -111,10 +111,10 @@ In parallel, I continue contributing to **thermal-neutron detector instrumentati
 ## ☀️ Thought of the day
 
 <!-- THOUGHT_OF_THE_DAY:START -->
-> *“Science is the belief in the ignorance of experts.”*  
-> **— Richard P. Feynman**  
-> *The Meaning of It All (1998) / phrasing varies in transcripts*  
-> <sub>Auto-updated daily • 2026-07-27</sub>
+> *“A theory can be proved by experiment; but no path leads from experiment to the birth of a theory.”*  
+> **— Albert Einstein**  
+> *Commonly attributed; source uncertain*  
+> <sub>Auto-updated daily • 2026-07-28</sub>
 <!-- THOUGHT_OF_THE_DAY:END -->
 
 ---
