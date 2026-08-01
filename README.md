@@ -111,10 +111,10 @@ In parallel, I continue contributing to **thermal-neutron detector instrumentati
 ## ☀️ Thought of the day
 
 <!-- THOUGHT_OF_THE_DAY:START -->
-> *“Our knowledge can only be finite, while our ignorance must necessarily be infinite.”*  
-> **— Karl Popper**  
-> *Conjectures and Refutations (1963) (attribution/translation varies)*  
-> <sub>Auto-updated daily • 2026-07-31</sub>
+> *“Normal science does not aim at novelties of fact or theory and, when successful, finds none.”*  
+> **— Thomas S. Kuhn**  
+> *The Structure of Scientific Revolutions (1962)*  
+> <sub>Auto-updated daily • 2026-08-01</sub>
 <!-- THOUGHT_OF_THE_DAY:END -->
 
 ---
