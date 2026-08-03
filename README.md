@@ -111,10 +111,10 @@ In parallel, I continue contributing to **thermal-neutron detector instrumentati
 ## ☀️ Thought of the day
 
 <!-- THOUGHT_OF_THE_DAY:START -->
-> *“The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge.”*  
-> **— Stephen Hawking**  
-> *Commonly attributed; source uncertain*  
-> <sub>Auto-updated daily • 2026-08-02</sub>
+> *“If you wish to make an apple pie from scratch, you must first invent the universe.”*  
+> **— Carl Sagan**  
+> *Cosmos (1980)*  
+> <sub>Auto-updated daily • 2026-08-03</sub>
 <!-- THOUGHT_OF_THE_DAY:END -->
 
 ---
