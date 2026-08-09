@@ -111,10 +111,10 @@ In parallel, I continue contributing to **thermal-neutron detector instrumentati
 ## ☀️ Thought of the day
 
 <!-- THOUGHT_OF_THE_DAY:START -->
-> *“It is the tension between creativity and skepticism that has produced the stunning and unexpected findings of science.”*  
-> **— Carl Sagan**  
-> *The Demon-Haunted World (1995) (paraphrase/attribution varies)*  
-> <sub>Auto-updated daily • 2026-08-08</sub>
+> *“The test of all knowledge is experiment. Experiment is the sole judge of scientific truth.”*  
+> **— Richard P. Feynman**  
+> *The Feynman Lectures on Physics (Vol. I)*  
+> <sub>Auto-updated daily • 2026-08-09</sub>
 <!-- THOUGHT_OF_THE_DAY:END -->
 
 ---
