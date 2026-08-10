@@ -111,10 +111,10 @@ In parallel, I continue contributing to **thermal-neutron detector instrumentati
 ## ☀️ Thought of the day
 
 <!-- THOUGHT_OF_THE_DAY:START -->
-> *“The test of all knowledge is experiment. Experiment is the sole judge of scientific truth.”*  
-> **— Richard P. Feynman**  
-> *The Feynman Lectures on Physics (Vol. I)*  
-> <sub>Auto-updated daily • 2026-08-09</sub>
+> *“An expert is a person who has made all the mistakes that can be made in a very narrow field.”*  
+> **— Niels Bohr**  
+> *Commonly attributed; primary source uncertain*  
+> <sub>Auto-updated daily • 2026-08-10</sub>
 <!-- THOUGHT_OF_THE_DAY:END -->
 
 ---
