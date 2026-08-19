@@ -111,10 +111,10 @@ In parallel, I continue contributing to **thermal-neutron detector instrumentati
 ## ☀️ Thought of the day
 
 <!-- THOUGHT_OF_THE_DAY:START -->
-> *“A scientist is happy, not in resting on his attainments but in the steady acquisition of fresh knowledge.”*  
-> **— Joseph Priestley**  
+> *“The function of imagination in science is to create, out of the known, the unknown.”*  
+> **— John Tyndall**  
 > *Commonly attributed; source uncertain*  
-> <sub>Auto-updated daily • 2026-08-18</sub>
+> <sub>Auto-updated daily • 2026-08-19</sub>
 <!-- THOUGHT_OF_THE_DAY:END -->
 
 ---
