@@ -111,10 +111,10 @@ In parallel, I continue contributing to **thermal-neutron detector instrumentati
 ## ☀️ Thought of the day
 
 <!-- THOUGHT_OF_THE_DAY:START -->
-> *“The function of imagination in science is to create, out of the known, the unknown.”*  
-> **— John Tyndall**  
-> *Commonly attributed; source uncertain*  
-> <sub>Auto-updated daily • 2026-08-19</sub>
+> *“Chance favors the prepared mind.”*  
+> **— Louis Pasteur**  
+> *Lecture at the University of Lille (1854) (commonly cited)*  
+> <sub>Auto-updated daily • 2026-08-20</sub>
 <!-- THOUGHT_OF_THE_DAY:END -->
 
 ---
