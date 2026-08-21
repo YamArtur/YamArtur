@@ -111,10 +111,10 @@ In parallel, I continue contributing to **thermal-neutron detector instrumentati
 ## ☀️ Thought of the day
 
 <!-- THOUGHT_OF_THE_DAY:START -->
-> *“Chance favors the prepared mind.”*  
-> **— Louis Pasteur**  
-> *Lecture at the University of Lille (1854) (commonly cited)*  
-> <sub>Auto-updated daily • 2026-08-20</sub>
+> *“We are what we repeatedly do. Excellence, then, is not an act, but a habit.”*  
+> **— Aristotle**  
+> *Commonly attributed; source uncertain*  
+> <sub>Auto-updated daily • 2026-08-21</sub>
 <!-- THOUGHT_OF_THE_DAY:END -->
 
 ---
