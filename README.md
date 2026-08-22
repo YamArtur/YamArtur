@@ -111,10 +111,10 @@ In parallel, I continue contributing to **thermal-neutron detector instrumentati
 ## ☀️ Thought of the day
 
 <!-- THOUGHT_OF_THE_DAY:START -->
-> *“We are what we repeatedly do. Excellence, then, is not an act, but a habit.”*  
-> **— Aristotle**  
+> *“What we know is a drop, what we don’t know is an ocean.”*  
+> **— Isaac Newton**  
 > *Commonly attributed; source uncertain*  
-> <sub>Auto-updated daily • 2026-08-21</sub>
+> <sub>Auto-updated daily • 2026-08-22</sub>
 <!-- THOUGHT_OF_THE_DAY:END -->
 
 ---
