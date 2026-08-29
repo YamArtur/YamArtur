@@ -111,10 +111,10 @@ In parallel, I continue contributing to **thermal-neutron detector instrumentati
 ## ☀️ Thought of the day
 
 <!-- THOUGHT_OF_THE_DAY:START -->
-> *“We can only see a short distance ahead, but we can see plenty there that needs to be done.”*  
-> **— Alan Turing**  
-> *Computing Machinery and Intelligence (Mind, 1950)*  
-> <sub>Auto-updated daily • 2026-08-28</sub>
+> *“All models are wrong, but some are useful.”*  
+> **— George E. P. Box**  
+> *Robustness in the strategy of scientific model building (1979) / widely attributed to Box*  
+> <sub>Auto-updated daily • 2026-08-29</sub>
 <!-- THOUGHT_OF_THE_DAY:END -->
 
 ---
