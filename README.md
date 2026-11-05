@@ -111,10 +111,10 @@ In parallel, I continue contributing to **thermal-neutron detector instrumentati
 ## ☀️ Thought of the day
 
 <!-- THOUGHT_OF_THE_DAY:START -->
-> *“If you can't explain it simply, you don't understand it well enough.”*  
-> **— Albert Einstein**  
-> *Commonly attributed; primary source uncertain*  
-> <sub>Auto-updated daily • 2026-11-03</sub>
+> *“Absence of evidence is not evidence of absence.”*  
+> **— Carl Sagan**  
+> *Commonly attributed; phrasing varies*  
+> <sub>Auto-updated daily • 2026-11-05</sub>
 <!-- THOUGHT_OF_THE_DAY:END -->
 
 ---
